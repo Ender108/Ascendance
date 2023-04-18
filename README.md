@@ -1,19 +1,17 @@
 ![image](https://user-images.githubusercontent.com/19737384/232925785-ffe62c23-e91b-4bf8-8d73-876521c0e2af.png)
-
-# Ascendance
 Ascendance is a lightweight difficulty modlist for Skyrim. The goal of Ascendance is to improve gameplay in a challenging yet rewarding way without completely overhauling the core Skyrim experience. Ascendance also includes a noticeable visual upgrade while still maintaining very high performance.
 
-## Requirements
+# Requirements
 - The latest version (currently 1.6.640 for Steam, 1.6.659 for GOG) of The Elder Scrolls V: Skyrim Special Edition
 - All Creation Club content from the paid Anniversary Edition upgrade.
 
-## Recommended Specs
+# Recommended Specs
 - CPU: Quad-core processor with high single core performance (3.5GHz or more).
 - RAM: 8-16 GB of DDR4 memory.
 - GPU: A modern card with at least 6GB of VRAM (ideally 8GB or more).
 - Storage: At least 100GB of free space on a SSD.
 
-## Installation Steps
+# Installation Steps
 
 1. Download and install [Visual C++ 2019](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you have not already.
 2. Uninstall Skyrim Special Edition if you already have it installed through Steam or GOG. Ensure the game folder is deleted (...Steam\steamapps\common\Skyrim Special Editon). Ensure the INI files folder is deleted (...Documents\My Games\Skyrim Special Edition)
