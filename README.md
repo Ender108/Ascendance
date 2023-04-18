@@ -1,9 +1,9 @@
 # Ascendance
-Ascendance is a lightweight difficulty modlist for Skyrim. The goal of Ascendance is to improve gameplay in a challenging yet rewarding way without completely overhauling the core Skyrim experience. Ascendance also includes a noticable visual upgrade while still maintaining very high performance.
+Ascendance is a lightweight difficulty modlist for Skyrim. The goal of Ascendance is to improve gameplay in a challenging yet rewarding way without completely overhauling the core Skyrim experience. Ascendance also includes a noticeable visual upgrade while still maintaining very high performance.
 
 ## Requirements
 - The latest version (currently 1.6.640 for Steam, 1.6.659 for GOG) of The Elder Scrolls V: Skyrim Special Edition
-- All Creation Club content from the paid Anniversary Edition updgrade.
+- All Creation Club content from the paid Anniversary Edition upgrade.
 
 ## Recommended Specs
 - CPU: Quad-core processor with high single core performance (3.5GHz or more).
