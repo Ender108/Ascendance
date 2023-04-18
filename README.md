@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/19737384/232925785-ffe62c23-e91b-4bf8-8d73-876521c0e2af.png)
+
 # Ascendance
 Ascendance is a lightweight difficulty modlist for Skyrim. The goal of Ascendance is to improve gameplay in a challenging yet rewarding way without completely overhauling the core Skyrim experience. Ascendance also includes a noticeable visual upgrade while still maintaining very high performance.
 
