@@ -1,4 +1,5 @@
 ## Version 0.1.4
+This update is save safe.
 ### Added
 - More Carriages - Fast Travel Improvement
 - More Ferries - Fast Travel Improvement
