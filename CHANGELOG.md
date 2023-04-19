@@ -1,4 +1,5 @@
 ## Version 0.1.3
+- This update is save safe.
 ### Removed
 - Vanilla HDR (too much saturation and made nights darker)
 ### Updated
