@@ -1,3 +1,10 @@
+## Version 0.1.3
+### Removed
+- Vanilla HDR (too much saturation and made nights darker)
+### Updated
+- Enabled critical hit/sneak attack messages
+- Draugr boss now spawns in Bleak Falls Barrow instead of a Dragon Priest
+
 ## Version 0.1.2
 This update is save safe. Please create a save in an interior before updating.
 ### Added
@@ -14,7 +21,6 @@ This update is save safe. Please create a save in an interior before updating.
 - A Clear Map of Skyrim (Didn't look very good)
 ### Updated
 - Regenerated xLODGen, TexGen, and DynDOLOD
-- Conflict Resolution Patch
 
 ## Version 0.1.1
 This update adds a much better performing grass overhaul while still looking very good. It also cuts the total size by 6GB. This update is save safe.
