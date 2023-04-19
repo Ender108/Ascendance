@@ -1,3 +1,10 @@
+## (Unreleased) Version 0.1.5
+This update is save safe.
+### Added
+- Simple Offence Suppression
+- 3rd Person Camera Stagger Remover
+- Essential Favorites
+
 ## Version 0.1.4
 This update is save safe.
 ### Added
