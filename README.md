@@ -4,7 +4,7 @@
 Ascendance is a lightweight difficulty modlist for Skyrim. The goal of Ascendance is to improve gameplay in a challenging yet rewarding way while staying true to the core Skyrim experience. Ascendance also includes a noticeable visual upgrade while still maintaining very high performance.
 
 # Requirements
-- The latest version (currently 1.6.640 for Steam, 1.6.659 for GOG) of The Elder Scrolls V: Skyrim Special Edition
+- The latest version (currently 1.6.640 for Steam) of The Elder Scrolls V: Skyrim Special Edition. The GoG versions of Skyrim is NOT supported at the moment.
 - All Creation Club content from the paid Anniversary Edition upgrade.
 
 # Recommended Specs
@@ -16,9 +16,9 @@ Ascendance is a lightweight difficulty modlist for Skyrim. The goal of Ascendanc
 # Installation Steps
 
 1. Download and install [Visual C++ 2019](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you have not already.
-2. Uninstall Skyrim Special Edition if you already have it installed through Steam or GOG. Ensure the game folder is deleted (...Steam\steamapps\common\Skyrim Special Editon). Ensure the INI files folder is deleted (...Documents\My Games\Skyrim Special Edition)
-3. Download and install Skyrim Special Edition through Steam or GOG. It must be installed outside of the "Program Files" folders in your Windows drive, and the game's language must be set to English.
-4. Run Skyrim Special Edition through Steam or GOG to generate the INI files. Exit the launcher once the INI are generated.
+2. Uninstall Skyrim Special Edition if you already have it installed through Steam. Ensure the game folder is deleted (...Steam\steamapps\common\Skyrim Special Editon). Ensure the INI files folder is deleted (...Documents\My Games\Skyrim Special Edition)
+3. Download and install Skyrim Special Edition through Steam. It must be installed outside of the "Program Files" folders in your Windows drive, and the game's language must be set to English.
+4. Run Skyrim Special Edition through Steam to generate the INI files. Exit the launcher once the INI are generated.
 5. Download and install [Wabbajack](https://www.wabbajack.org/) in any location if you haven't already. Click the settings icon in the top right then log in with your Nexus Mods account.
 6. In the Wabbajack main menu, click "Browse Modlists", in the dropdown menu in the top right select "Skyrim Special Edition", then click "Show
 Unofficial Lists".
