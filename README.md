@@ -4,7 +4,7 @@
 Ascendance is a lightweight difficulty modlist for Skyrim. The goal of Ascendance is to improve gameplay in a challenging yet rewarding way while staying true to the core Skyrim experience. Ascendance also includes a noticeable visual upgrade while still maintaining very high performance.
 
 # Requirements
-- The latest version (currently 1.6.640 for Steam) of The Elder Scrolls V: Skyrim Special Edition. The GoG versions of Skyrim is NOT supported at the moment.
+- The latest version (currently 1.6.640 for Steam) of The Elder Scrolls V: Skyrim Special Edition. The GoG version of Skyrim is NOT supported at the moment.
 - All Creation Club content from the paid Anniversary Edition upgrade.
 
 # Recommended Specs
