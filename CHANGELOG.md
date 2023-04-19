@@ -1,3 +1,31 @@
+## Version 0.1.4
+### Added
+- More Carriages - Fast Travel Improvement
+- More Ferries - Fast Travel Improvement
+- Cathedral Player and NPC Overhaul - HMB II
+- Cathedral Player and NPC Overhaul - ECSS Patch
+- Al's HMB FaceGen Patches
+### Removed
+- Face Discoloration Fix
+- Expressive Facial Animation - Female Edition
+- Expressive Facial Animation - Male Edition
+- Reverie Skin
+- Vitruvia - Skin texture overhaul for males
+- Feminine Argonian Textures
+- Feminine Khajiit Textures
+- Masculine Argonian Textures
+- Masculine Khajiit Textures
+- Natural Hair Colors
+- Vanilla Hair - Salt and Wind
+- Vanilla Hairs Fixes
+- High Poly Vanilla Hair
+- Vanilla Hair Remake
+- Skyrim Ultimate Eye Meshes Ruhmastered
+- Skyrim Ultimate Eye Meshes Ruhmastered - Simple Vamp Fixes
+- Authentic Eyes
+- Child Vampire Fix
+- Ascendance - FaceGen (using Cathedral Player and NPC Overhaul instead)
+
 ## Version 0.1.3
 - This update is save safe.
 ### Removed
