@@ -1,4 +1,4 @@
-## (Unreleased) Version 0.1.5
+## Version 0.1.5
 This update is save safe (I think).
 ### Added
 - Simple Offence Suppression
