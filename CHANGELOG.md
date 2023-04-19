@@ -1,6 +1,7 @@
 ## Version 0.1.2
 This update is save safe. Please create a save in an interior before updating.
 ### Added
+- Face Discoloration Fix
 - Infinity UI
 - Compass Navigation Overhaul
 - Unique Map Weather - Vanilla Additions
