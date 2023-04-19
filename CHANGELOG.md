@@ -4,6 +4,14 @@ This update is save safe.
 - Simple Offence Suppression
 - 3rd Person Camera Stagger Remover
 - Essential Favorites
+- Relighting Skyrim
+- Standard Lighting Templates
+### Removed
+- ELFX
+- ELFX Shadows
+- Tamriel Master Lights
+- Ambiance
+- Ambiance USSEP Patch
 
 ## Version 0.1.4
 This update is save safe.
