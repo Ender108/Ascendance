@@ -6,6 +6,7 @@
 - ELFX Fixes
 - ELFX Dwemer Floor Footsteps Fix
 - RAID Weathers - ELFX Enhancer Patch
+- Realistic Water Two
 - Remove Blurry Snowflakes
 - Bright Falling Leaves Fix
 - No Killmoves - No Killcams - No Killbites + patch for Dragon War so it doesn't break the MQ
@@ -16,6 +17,9 @@
 - Enhanced Rocks and Mountains Parallax (swapped to regular version)
 - Relighting Skyrim
 - Standard Lighting Templates
+- Cathedral Water
+- Simplicity of Sea
+- Natural Waterfalls
 - Rudy HQ Falling Leaves
 - VioLens + Settings Loader
 ### Updated
