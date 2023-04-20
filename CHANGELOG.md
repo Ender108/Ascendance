@@ -9,7 +9,6 @@
 - Realistic Water Two
 - Remove Blurry Snowflakes
 - Bright Falling Leaves Fix
-- No Killmoves - No Killcams - No Killbites + patch for Dragon War so it doesn't break the MQ
 ### Removed
 - All mods USMP covers
 - Prisoner Cart Opening Fix
@@ -21,7 +20,6 @@
 - Simplicity of Sea
 - Natural Waterfalls
 - Rudy HQ Falling Leaves
-- VioLens + Settings Loader
 ### Updated
 - Chapter II - Jeremy Soule Inspired Music to v3.2
 
