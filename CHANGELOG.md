@@ -1,3 +1,21 @@
+## (Unreleased) Version 1.0.0 Official Release
+### Added
+- Unofficial Skyrim Modders Patch
+- ELFX + Enhancer
+- ELFX SMIM Patch 
+- ELFX Fixes
+- ELFX Dwemer Floor Footsteps Fix
+- RAID Weathers - ELFX Enhancer Patch
+- Remove Blurry Snowflakes
+- Bright Falling Leaves Fix
+- No Killmoves - No Killcams - No Killbites + patch for Dragon War so it doesn't break the MQ
+### Removed
+- All mods USMP covers
+- Relighting Skyrim
+- Standard Lighting Templates
+- Rudy HQ Falling Leaves
+- VioLens + Settings Loader
+
 ## Version 0.1.5
 This update is save safe (I think).
 ### Added
