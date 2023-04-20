@@ -12,6 +12,7 @@
 ### Removed
 - All mods USMP covers
 - Prisoner Cart Opening Fix
+- Skyland Landscapes Parallax
 - Relighting Skyrim
 - Standard Lighting Templates
 - Rudy HQ Falling Leaves
