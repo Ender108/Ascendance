@@ -11,6 +11,7 @@
 - No Killmoves - No Killcams - No Killbites + patch for Dragon War so it doesn't break the MQ
 ### Removed
 - All mods USMP covers
+- Prisoner Cart Opening Fix
 - Relighting Skyrim
 - Standard Lighting Templates
 - Rudy HQ Falling Leaves
