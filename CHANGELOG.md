@@ -13,6 +13,7 @@
 - All mods USMP covers
 - Prisoner Cart Opening Fix
 - Skyland Landscapes Parallax
+- Enhanced Rocks and Mountains Parallax (swapped to regular version)
 - Relighting Skyrim
 - Standard Lighting Templates
 - Rudy HQ Falling Leaves
