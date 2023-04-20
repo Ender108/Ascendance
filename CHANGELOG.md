@@ -9,6 +9,7 @@
 - Realistic Water Two
 - Remove Blurry Snowflakes
 - Bright Falling Leaves Fix
+- MCM profile for VioLens to turn killmoves off
 ### Removed
 - All mods USMP covers
 - Prisoner Cart Opening Fix
