@@ -18,6 +18,8 @@
 - Standard Lighting Templates
 - Rudy HQ Falling Leaves
 - VioLens + Settings Loader
+### Updated
+- Chapter II - Jeremy Soule Inspired Music to v3.2
 
 ## Version 0.1.5
 This update is save safe (I think).
