@@ -10,6 +10,14 @@
 - Remove Blurry Snowflakes
 - Bright Falling Leaves Fix
 - MCM profile for VioLens to turn killmoves off
+- Simple Scroll Transcribing
+- Simple Scroll Transcribing - Mysticism Survival Spells Addon
+- Simplicity of Settlements - Dragon Bridge
+- Farmhouse Chimneys SE + USSEP Patch
+- No More Blinding Fog
+- My Minimalistic AutoSave Mod
+- To Your Face
+- At Your Own Pace MQ, CoW + Quest Expansion Patch, and Companions
 ### Removed
 - All mods USMP covers
 - Prisoner Cart Opening Fix
@@ -21,8 +29,10 @@
 - Simplicity of Sea
 - Natural Waterfalls
 - Rudy HQ Falling Leaves
+- Misc Tweaks - Decluttered Crafting Menus
 ### Updated
 - Chapter II - Jeremy Soule Inspired Music to v3.2
+- Improved Traps to use the Dangerous version
 
 ## Version 0.1.5
 This update is save safe (I think).
