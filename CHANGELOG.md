@@ -31,6 +31,8 @@ This update is NOT save safe.
 - Natural Waterfalls
 - Rudy HQ Falling Leaves
 - Misc Tweaks - Decluttered Crafting Menus
+- Oblivion Like Loading Menu
+- Untarnished UI - Widescreen Patch (not needed)
 ### Updated
 - Chapter II - Jeremy Soule Inspired Music to v3.2
 - Improved Traps to use the Dangerous version
