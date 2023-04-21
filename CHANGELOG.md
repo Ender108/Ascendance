@@ -36,6 +36,7 @@ This update is NOT save safe.
 ### Updated
 - Chapter II - Jeremy Soule Inspired Music to v3.2
 - Improved Traps to use the Dangerous version
+- Realistic AI Detection to use high interior instead of medium interior
 
 ## Version 0.1.5
 This update is save safe (I think).
