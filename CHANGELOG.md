@@ -19,6 +19,7 @@ This update is NOT save safe.
 - My Minimalistic AutoSave Mod
 - To Your Face
 - At Your Own Pace MQ, CoW + Quest Expansion Patch, and Companions
+- Happy Little Trees - Beyond Skyrim Bruma LOD Replacer
 ### Removed
 - All mods USMP covers
 - Prisoner Cart Opening Fix
