@@ -1,4 +1,5 @@
 ## (Unreleased) Version 1.0.0 Official Release
+This update is NOT save safe.
 ### Added
 - Unofficial Skyrim Modders Patch
 - ELFX + Enhancer
