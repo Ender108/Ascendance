@@ -11,7 +11,7 @@ Ascendance is a lightweight difficulty modlist for Skyrim. The goal of Ascendanc
 - CPU: Quad-core processor with high single core performance (3.5GHz or more).
 - RAM: 8-16 GB of DDR4 memory.
 - GPU: A modern card with at least 6GB of VRAM (ideally 8GB or more).
-- Storage: At least 90GB of free space on a SSD.
+- Storage: At least 100GB of free space on a SSD.
 
 # Installation Steps
 
