@@ -20,6 +20,7 @@ This update is NOT save safe.
 - To Your Face
 - At Your Own Pace MQ, CoW + Quest Expansion Patch, and Companions
 - Happy Little Trees - Beyond Skyrim Bruma LOD Replacer
+- Splashes of Storms
 ### Removed
 - All mods USMP covers
 - Prisoner Cart Opening Fix
