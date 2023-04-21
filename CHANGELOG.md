@@ -21,6 +21,7 @@ This update is NOT save safe.
 - At Your Own Pace MQ, CoW + Quest Expansion Patch, and Companions
 - Happy Little Trees - Beyond Skyrim Bruma LOD Replacer
 - Splashes of Storms
+- A shit ton of NPC overhauls lol just check the load order library
 ### Removed
 - All mods USMP covers
 - Prisoner Cart Opening Fix
@@ -35,11 +36,15 @@ This update is NOT save safe.
 - Misc Tweaks - Decluttered Crafting Menus
 - Oblivion Like Loading Menu
 - Untarnished UI - Widescreen Patch (not needed)
+- Al's HMB Facegen Patches
+- Cathedral Player and NPC Overhaul - ECSS Patch
+- SB - Old People Consistency
 ### Updated
 - Chapter II - Jeremy Soule Inspired Music to v3.2
 - Improved Traps to use the Dangerous version
 - Realistic AI Detection to use high interior instead of medium interior
 - Lod Model Library for DynDOLOD
+- Cathedral Player and NPC Overhaul (removed facegen, body assets only)
 
 ## Version 0.1.5
 This update is save safe (I think).
