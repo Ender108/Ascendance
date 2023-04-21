@@ -22,6 +22,11 @@ This update is NOT save safe.
 - Happy Little Trees - Beyond Skyrim Bruma LOD Replacer
 - Splashes of Storms
 - A shit ton of NPC overhauls lol just check the load order library
+- Ascendance - NPC Overhaul Patch
+- RaceMenu
+- Vanilla hair remake
+- KS Hairdos Lite
+- Salt and Wind - KS Hairdo's Lite
 ### Removed
 - All mods USMP covers
 - Prisoner Cart Opening Fix
