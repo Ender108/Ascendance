@@ -50,6 +50,8 @@ This update is NOT save safe.
 - Realistic AI Detection to use high interior instead of medium interior
 - Lod Model Library for DynDOLOD
 - Cathedral Player and NPC Overhaul (removed facegen, body assets only)
+- Lawless Simonrim patch
+- Hokoron
 
 ## Version 0.1.5
 This update is save safe (I think).
