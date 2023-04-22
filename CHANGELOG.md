@@ -1,3 +1,10 @@
+## Version 1.0.1
+### Added
+- RAID Weathers - Brighter Nights
+### Updated
+- INI settings for better performance
+- The Dragon Cult to 1.3.1
+
 ## Version 1.0.0 Official Release
 This update is NOT save safe.
 ### Added
