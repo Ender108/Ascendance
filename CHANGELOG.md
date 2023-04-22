@@ -4,6 +4,8 @@ This update is save safe.
 - My Minimalistic Autosave Mod (just going to use game's autosave)
 ### Updated
 - Included modding tools in the download
+- First Person Target Locking Fix
+- The Dragon Cult to 1.3.2
 
 ## Version 1.0.1
 This update is save safe.
