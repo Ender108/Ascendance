@@ -1,4 +1,5 @@
 ## Version 1.0.1
+This version is save safe.
 ### Added
 - RAID Weathers - Brighter Nights
 ### Updated
