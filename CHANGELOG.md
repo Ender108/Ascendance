@@ -1,12 +1,12 @@
 ## Version 1.0.2
-This version is save safe.
+This update is save safe.
 ### Removed
 - My Minimalistic Autosave Mod (just going to use game's autosave)
 ### Updated
 - Included modding tools in the download
 
 ## Version 1.0.1
-This version is save safe.
+This update is save safe.
 ### Added
 - RAID Weathers - Brighter Nights
 - Dareni's Reshade preset
