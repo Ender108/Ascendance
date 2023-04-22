@@ -2,6 +2,7 @@
 This version is save safe.
 ### Added
 - RAID Weathers - Brighter Nights
+- Dareni's Reshade preset
 ### Updated
 - INI settings for better performance
 - The Dragon Cult to 1.3.1
