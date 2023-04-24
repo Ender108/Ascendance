@@ -1,3 +1,12 @@
+### 1.0.3
+This update is save safe.
+### Added
+- Blade and Blunt - Health Regen Addon
+### Removed
+- Skyrim Souls RE + Tweaks (unstable and caused crashes)
+### Updated
+- Survival Mode Improved - SKSE to 1.1.2
+
 ## Version 1.0.2
 This update is save safe.
 ### Removed
