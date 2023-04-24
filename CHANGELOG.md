@@ -1,4 +1,4 @@
-### 1.0.3
+### Version 1.0.3
 This update is save safe.
 ### Added
 - Blade and Blunt - Health Regen Addon
