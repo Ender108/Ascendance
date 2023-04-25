@@ -16,6 +16,8 @@ This update is NOT save safe.
 - Azurite Weathers
 - Supreme Storms for Azurite
 - Mist of Tamriel - Azurite Patch
+- Vanilla HDR
+- Custom ReShade Preset (it's just sharpening lol)
 - ENB Section with ENB Helper, IMOD Separator, and Input Disabler + other fixes
 - The Vanilla ENB Two
 - Lux Resources
@@ -32,6 +34,7 @@ This update is NOT save safe.
 - ELFX SMIM FPS Patch
 - RAID Weathers - ELFX Enhancer Patch
 - Realistic Torch Light
+- Dareni ReShade
 - Enhnaced Landscapes - Grass Overhaul
 - Ascendance - Grass Mix
 ### Updated
