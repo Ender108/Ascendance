@@ -26,6 +26,8 @@ This update is NOT save safe.
 - OSHA-Compliant Sovengarde Mesh Fixes
 - Solitude Interiors Meshes Fixes
 - DLC2dunSeekerInvisScript Fix
+- Al's HMB FaceGen Patches
+- Cathedral Player and NPC Overhaul - Skyrim Extended Cut - Saints and Seducers Patch
 ### Removed
 - RAID Weathers
 - RAID Weathers - Brighter Nights
@@ -38,6 +40,8 @@ This update is NOT save safe.
 - Dareni ReShade
 - Enhnaced Landscapes - Grass Overhaul
 - Ascendance - Grass Mix
+- All NPC Overhauls (this was an impulse decision in the first place sorry)
+- NPC Overhaul Patch
 ### Updated
 - Natura
 - Ascension
@@ -50,6 +54,7 @@ This update is NOT save safe.
 - Royal Armory Plugin Replacer - Adjustments and Rebalancing for Thaumaturgy
 - CC Alternative Armors - Quest Removal Enchanted Variants and Proper Distribution for Thaumaturgy
 - Vestige - An Artifact Overhaul
+- Readded facegen from HMB II
 
 ## Version 1.0.3
 This update is save safe.
