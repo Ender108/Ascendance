@@ -13,7 +13,25 @@ This update is NOT save safe.
 - QW's Grass Patch
 - Complex Grass Textures
 - Performance Grass Settings
+- Azurite Weathers
+- Supreme Storms for Azurite
+- Mist of Tamriel - Azurite Patch
+- ENB Section with ENB Helper, IMOD Separator, and Input Disabler + other fixes
+- The Vanilla ENB Two
+- Lux Resources
+- Lux
+- Lux Orbis
+- OSHA-Compliant Sovengarde Mesh Fixes
+- Solitude Interiors Meshes Fixes
 ### Removed
+- RAID Weathers
+- RAID Weathers - Brighter Nights
+- Mist of Tamriel - RAID Patch
+- ELFX
+- ELFX Fixes
+- ELFX SMIM FPS Patch
+- RAID Weathers - ELFX Enhancer Patch
+- Realistic Torch Light
 - Enhnaced Landscapes - Grass Overhaul
 - Ascendance - Grass Mix
 ### Updated
