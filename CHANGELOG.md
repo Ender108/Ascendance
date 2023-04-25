@@ -19,7 +19,7 @@ This update is NOT save safe.
 - Mist of Tamriel - Azurite Patch
 - Vanilla HDR
 - Custom ReShade Preset (it's just sharpening lol)
-- ENB Section with ENB Helper, IMOD Separator, and Input Disabler + other fixes
+- Optional ENB Section with ENB Helper, IMOD Separator, and Input Disabler + other fixes
 - The Vanilla ENB Two
 - Lux Resources
 - Lux
