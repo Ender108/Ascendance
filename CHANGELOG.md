@@ -28,6 +28,7 @@ This update is NOT save safe.
 - DLC2dunSeekerInvisScript Fix
 - Al's HMB FaceGen Patches
 - Cathedral Player and NPC Overhaul - Skyrim Extended Cut - Saints and Seducers Patch
+- Nordic Faces - Beyond Skyrim Bruma
 ### Removed
 - RAID Weathers
 - RAID Weathers - Brighter Nights
@@ -42,6 +43,7 @@ This update is NOT save safe.
 - Ascendance - Grass Mix
 - All NPC Overhauls (this was an impulse decision in the first place sorry)
 - NPC Overhaul Patch
+- Immersive KS Hairdos + Salt and Wind Patch
 ### Updated
 - Natura
 - Ascension
