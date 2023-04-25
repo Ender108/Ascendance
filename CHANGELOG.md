@@ -39,6 +39,7 @@ This update is NOT save safe.
 - Iconic's Ashman Retexture
 - Iconic's Ash Guardian Retexture
 - Iconic's Arvak Retexture
+- Archery Rebalance
 ### Removed
 - RAID Weathers
 - RAID Weathers - Brighter Nights
