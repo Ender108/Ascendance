@@ -8,6 +8,14 @@ This update is NOT save safe.
 - Xtudo's Potion of Blood
 - Xtudo's Vaermina's Torpor
 - Xtudo's Sleeping Tree Sap
+- Folkvangr - Grass and Landscape Overhaul
+- Veydosebrom Regions
+- QW's Grass Patch
+- Complex Grass Textures
+- Performance Grass Settings
+### Removed
+- Enhnaced Landscapes - Grass Overhaul
+- Ascendance - Grass Mix
 ### Updated
 - Natura
 - Ascension
