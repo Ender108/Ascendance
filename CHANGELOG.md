@@ -4,17 +4,22 @@ This update is NOT save safe.
 - Natura - Spriggans
 - Simply Order Summons
 - Swiftly Order Squad
+- Xtudo's White Phial
+- Xtudo's Potion of Blood
+- Xtudo's Vaermina's Torpor
+- Xtudo's Sleeping Tree Sap
 ### Updated
 - Natura
 - Ascension
 - Flames of Coldharbour
 - Bloodmoon
 - Abyss
-- Thaumaturgy
-- Apothecary
-- Lawless
+- Thaumaturgy - An Enchanting Overhaul
+- Apothecary - An Alchemy Overhaul
+- Lawless - A Bandit Overhaul
 - Royal Armory Plugin Replacer - Adjustments and Rebalancing for Thaumaturgy
 - CC Alternative Armors - Quest Removal Enchanted Variants and Proper Distribution for Thaumaturgy
+- Vestige - An Artifact Overhaul
 
 ## Version 1.0.3
 This update is save safe.
