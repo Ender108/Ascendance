@@ -8,6 +8,7 @@ This update is NOT save safe.
 - Xtudo's Potion of Blood
 - Xtudo's Vaermina's Torpor
 - Xtudo's Sleeping Tree Sap
+- Skyland Blacksmith Texture Overhaul
 - Folkvangr - Grass and Landscape Overhaul
 - Veydosebrom Regions
 - QW's Grass Patch
@@ -29,6 +30,15 @@ This update is NOT save safe.
 - Al's HMB FaceGen Patches
 - Cathedral Player and NPC Overhaul - Skyrim Extended Cut - Saints and Seducers Patch
 - Nordic Faces - Beyond Skyrim Bruma
+- Iconic's Spriggan Retexture
+- Iconic's Gargoyle and Death Hound Retexture
+- Iconic's Frost - Flame - Storm Atronach Retexture
+- Iconic's Spiders of Skyrim Retexture
+- Natura - Stone Atronach Retexture
+- Iconic's Vampire Lord Retexture
+- Iconic's Ashman Retexture
+- Iconic's Ash Guardian Retexture
+- Iconic's Arvak Retexture
 ### Removed
 - RAID Weathers
 - RAID Weathers - Brighter Nights
@@ -44,6 +54,9 @@ This update is NOT save safe.
 - All NPC Overhauls (this was an impulse decision in the first place sorry)
 - NPC Overhaul Patch
 - Immersive KS Hairdos + Salt and Wind Patch
+- RUSTIC SPIDERS
+- RUSTIC DEATH HOUND and GARGOYLE
+- RUSTIC FROSTBITE SPIDER
 ### Updated
 - Natura
 - Ascension
