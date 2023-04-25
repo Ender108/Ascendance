@@ -13,7 +13,7 @@ This update is NOT save safe.
 - Veydosebrom Regions
 - QW's Grass Patch
 - Complex Grass Textures
-- Performance Grass Settings
+- Performance Grass Settings (lower density and fade values)
 - Azurite Weathers
 - Supreme Storms for Azurite
 - Mist of Tamriel - Azurite Patch
