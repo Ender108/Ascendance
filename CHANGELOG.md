@@ -70,6 +70,7 @@ This update is NOT save safe.
 - CC Alternative Armors - Quest Removal Enchanted Variants and Proper Distribution for Thaumaturgy
 - Vestige - An Artifact Overhaul
 - Readded facegen from HMB II
+- Snowy Surfaces Sound Collision and Aesthetics
 
 ## Version 1.0.3
 This update is save safe.
