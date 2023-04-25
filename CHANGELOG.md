@@ -25,6 +25,7 @@ This update is NOT save safe.
 - Lux Orbis
 - OSHA-Compliant Sovengarde Mesh Fixes
 - Solitude Interiors Meshes Fixes
+- DLC2dunSeekerInvisScript Fix
 ### Removed
 - RAID Weathers
 - RAID Weathers - Brighter Nights
