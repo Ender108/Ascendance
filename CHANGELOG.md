@@ -27,6 +27,7 @@ This update is NOT save safe.
 - OSHA-Compliant Sovengarde Mesh Fixes
 - Solitude Interiors Meshes Fixes
 - DLC2dunSeekerInvisScript Fix
+- DLC2MiraakScript Fix
 - Al's HMB FaceGen Patches
 - Cathedral Player and NPC Overhaul - Skyrim Extended Cut - Saints and Seducers Patch
 - Nordic Faces - Beyond Skyrim Bruma
