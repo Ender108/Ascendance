@@ -73,6 +73,7 @@ This update is NOT save safe.
 - Vestige - An Artifact Overhaul
 - Readded facegen from HMB II
 - Snowy Surfaces Sound Collision and Aesthetics
+- Realistic AI Detection to Medium interior/exterior
 - LOD Outputs
 
 ## Version 1.0.3
