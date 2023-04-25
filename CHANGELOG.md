@@ -1,3 +1,21 @@
+## Verison 1.1.0
+This update is NOT save safe.
+### Added
+- Natura - Spriggans
+- Simply Order Summons
+- Swiftly Order Squad
+### Updated
+- Natura
+- Ascension
+- Flames of Coldharbour
+- Bloodmoon
+- Abyss
+- Thaumaturgy
+- Apothecary
+- Lawless
+- Royal Armory Plugin Replacer - Adjustments and Rebalancing for Thaumaturgy
+- CC Alternative Armors - Quest Removal Enchanted Variants and Proper Distribution for Thaumaturgy
+
 ## Version 1.0.3
 This update is save safe.
 ### Added
