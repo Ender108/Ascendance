@@ -12,7 +12,7 @@ This update is NOT save safe.
 - Folkvangr - Grass and Landscape Overhaul
 - Veydosebrom Regions
 - QW's Grass Patch
-- Complex Grass Textures
+- ENB Complex Grass Textures
 - Performance Grass Settings (lower density and fade values)
 - Azurite Weathers
 - Supreme Storms for Azurite
