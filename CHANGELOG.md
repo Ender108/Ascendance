@@ -3,6 +3,7 @@ This update is save safe.
 ### Added
 - Custom Skills Framework
 - Dragonborn - Shouts Perk Tree
+- Improved Horse Step Sounds
 ### Removed
 - HD Road Signs 2K
 - Snow Landscapes in Snowy Regions
