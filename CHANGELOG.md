@@ -1,3 +1,15 @@
+## Verison 1.1.2
+This update is save safe.
+### Added
+- Custom Skills Framework
+- Dragonborn - Shouts Perk Tree
+### Removed
+- HD Road Signs 2K
+- Snow Landscapes in Snowy Regions
+### Updated
+- The moons now have color with ENB enabled
+- Regenerated DynDOLOD to fix some weird floating lights
+
 ## Verison 1.1.1
 This update is save safe.
 ### Updated
