@@ -6,6 +6,7 @@ This update is save safe.
 ### Removed
 - HD Road Signs 2K
 - Snow Landscapes in Snowy Regions
+- Ammo Enchanting
 ### Updated
 - The moons now have color with ENB enabled
 - Regenerated DynDOLOD to fix some weird floating lights
