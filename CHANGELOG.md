@@ -1,3 +1,11 @@
+## Verison 1.1.1
+This update is save safe.
+### Updated
+- Disabled ENB Rain
+- Nerfed the Moon Monk gauntlets that dealt 40 unarmed damage to +25% unarmed damage to match Thaumaturgy
+- fixed ugly mountain flowers
+- uhhhh idk other things too
+
 ## Verison 1.1.0
 This update is NOT save safe.
 ### Added
