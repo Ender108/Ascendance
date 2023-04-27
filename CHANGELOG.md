@@ -1,3 +1,8 @@
+## (Unreleased) Version 1.1.3
+### Added
+- Xavbio's Leather Armors Retexture
+- Skyland Blacksmith - Embers XD Patch
+
 ## Verison 1.1.2
 This update is save safe.
 ### Added
