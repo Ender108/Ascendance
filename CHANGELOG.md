@@ -14,8 +14,8 @@ This update is save safe. I would recommend starting a new game for consistency 
 - 2 perks at levels 5, 10, 15, 20, 25, 30, 35, 40, 45
 - 3 perks at level 50
 - No perks after level 50, making 50 a "soft" level cap
-- Only 5 stat points at level 51 and above
 - 60 total perks at level 50, 2 extra perks from the Ogma, for a total of 62 perks on a character
+- Only 5 stat points at level 51 and above
 - Reduced character level influencing the amount of skill level gain that contributes to character level gain by 25%
 - Game difficulty is now set to Expert by default (0.75x Damage Dealt / 2x Damage Received)
 
