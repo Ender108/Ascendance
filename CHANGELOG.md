@@ -1,5 +1,5 @@
 ## Version 1.1.4
-This update is save safe.
+This update is save safe. I would recommend starting a new game due to the new Uncapper INI settings for consistency reasons.
 ### Added
 - Arclight
 - Precision
