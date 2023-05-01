@@ -1,3 +1,20 @@
+## Version 1.1.5
+This update is save safe. I'd recommend saving in an interior before updating.
+### Added
+- Skyrim Remastered - Unreal Ice
+- Skyrim Remastered - Caves
+- Icy Caves
+- FrozenLands
+- Unique Towns - Base Object Swapper
+- Morthal Where's Wares
+### Removed
+- Skyrim Remastered - Glaciers and Ice - 4K Textures
+## Updated
+- B.O.O.B.I.E.S
+- Paradigm - A Quick Start Overhaul
+- The Dragon Cult
+- Icy Mesh Remaster
+
 ## Version 1.1.4
 This update is save safe. I would recommend starting a new game for consistency reasons due to the new Uncapper INI settings.
 ### Added
