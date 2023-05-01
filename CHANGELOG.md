@@ -1,3 +1,13 @@
+## Version 1.1.4
+This update is save safe.
+### Added
+- Precision
+- Precision Creatures
+- Nemesis Creature Behaviour Compatibility
+### Updated
+- No more Dragon Priest in Bleak Falls Barrow, again
+- 
+
 ## Version 1.1.3
 This update is save safe.
 ### Added
