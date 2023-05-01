@@ -1,12 +1,23 @@
 ## Version 1.1.4
 This update is save safe.
 ### Added
+- Arclight
 - Precision
 - Precision Creatures
 - Nemesis Creature Behaviour Compatibility
 ### Updated
 - No more Dragon Priest in Bleak Falls Barrow, again
-- 
+- Nemesis Output
+- Ascendance Uncapper INI
+### New Uncapper Settings
+- 20 stat points at level 2 (small boost for early game difficuly, and to allow 500 total stat points to distribute by level 50)
+- 2 perks at levels 5, 10, 15, 20, 25, 30, 35, 40, 45
+- 3 perks at level 50
+- No perks after level 50, making 50 a "soft" level cap
+- Only 5 stat points at level 51 and above
+- 60 total perks at level 50, 2 extra perks from the Ogma, for a total of 62 perks on a character
+- Reduced character level influencing the amount of skill level gain that contributes to character level gain by 25%
+- Game difficulty is now set to Expert by default (0.75x Damage Dealt / 2x Damage Received)
 
 ## Version 1.1.3
 This update is save safe.
