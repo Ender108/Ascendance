@@ -1,3 +1,10 @@
+## Version 1.1.7
+This update is save safe.
+### Added 
+- Ancient Dwemer Metal + all the patches needed
+### Removed
+- JS Dwemer textures
+
 ## Version 1.1.6
 This update is save safe.
 ### Added 
