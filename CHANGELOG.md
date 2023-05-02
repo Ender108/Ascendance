@@ -1,3 +1,11 @@
+## Version 1.1.6
+This update is save safe.
+### Added 
+- Skyrim Textures Redone - Enhanced Night Sky
+- STAYDOWN
+### Updated 
+- Vanilla HDR and Azurite settings (thank you DODOOGA1, very cool!)
+
 ## Version 1.1.5
 This update is save safe. I'd recommend saving in an interior before updating.
 ### Added
