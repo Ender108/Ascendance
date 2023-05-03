@@ -1,3 +1,14 @@
+## Version 1.1.8
+This update is save safe.
+### Added 
+- Pre-release version of Aetherius
+- Pre-release version of Blade and Blunt - Sneak Addon
+- Don't Eat Spells Tomes
+- Challenging Spell Learning + Alternate Animation
+- Khajiit Speak (optional file for Khajiit characters)
+### Updated
+- Disabled Precision collisions in MCM (still too wonky)
+
 ## Version 1.1.7
 This update is save safe.
 ### Added 
