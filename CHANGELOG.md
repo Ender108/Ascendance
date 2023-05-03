@@ -1,3 +1,10 @@
+## Version 1.1.9
+This update is NOT save safe if you are using Khajiit Speak.
+### Added
+- BA Khajiit Speak Redux
+### Removed
+- This update is save safe.
+
 ## Version 1.1.8
 This update is save safe.
 ### Added 
