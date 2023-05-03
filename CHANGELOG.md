@@ -4,6 +4,8 @@ This update is NOT save safe if you are using Khajiit Speak.
 - BA Khajiit Speak Redux
 ### Removed
 - This update is save safe.
+### Updated
+= Hokoron
 
 ## Version 1.1.8
 This update is save safe.
