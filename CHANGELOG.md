@@ -1,9 +1,26 @@
+## Version 1.2.0
+This update is NOT save safe.
+### Added
+- KreatE
+- Native EditorID Fix
+- RAID Weathers + lower saturation
+- RAID Weathers - Brighter Nights (KreatE Preset)
+### Removed
+- Beyond Skyrim: Bruma
+- Every mod that required BS Bruma
+- Lux
+- Lux Orbis
+- Azurite Weathers
+- Supreme Weathers for Azurite
+### Updated
+- Now uses Stock Game folder system
+
 ## Version 1.1.9
 This update is NOT save safe if you are using Khajiit Speak.
 ### Added
 - BA Khajiit Speak Redux
 ### Removed
-- This update is save safe.
+- Khajiit Speak
 ### Updated
 - Hokoron
 
