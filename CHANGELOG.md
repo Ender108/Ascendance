@@ -46,7 +46,7 @@ This update is NOT save safe.
 - FormList Manipulator
 - Mfg Fix
 - A Quality World Map
-- Custom Arrow Tweaks
+- Custom Archery Tweaks
 ### Removed
 - Beyond Skyrim: Bruma
 - Every mod that required BS Bruma
