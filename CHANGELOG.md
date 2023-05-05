@@ -60,6 +60,7 @@ This update is NOT save safe.
 - Al's HMB Facegen Patches
 - ArteFakes
 - H to Horse
+- Archery Rebalance
 ### Updated
 - Now uses Stock Game folder system
 - Paradigm
