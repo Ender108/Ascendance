@@ -6,6 +6,34 @@ This update is NOT save safe.
 - Road Signs Fast Travel - Base Object Swapper
 - Aura's Scrumptious Supplement
 - Phenomenally Enriched and Nuanced Ingredients for SkyUI
+- Expressive Facial Animation -Female Edition-
+- Expressive Facial Animation -Male Edition-
+- Detailmap Seamfix
+- Vanilla Body with UNP Textures
+- Males Of Skyrim - High Poly Hands
+- Tempered Skins for Females
+- Tempered Skins for Males
+- Tempered Racial Textures
+- Tempered Racial Textures - Ring of Disrobing Patch
+- Afflicted Female Hand Fix
+- CoverKhajiits - Face Textures
+- Flawn's Vanilla Argonians Redux
+- Argonian Weight Slider Affected Tails
+- Flawn's Vanilla Argonians Redux - Weight Slider Affected Tails Patch
+ -Natural Hair Colors
+- Vanilla Hairs Fixes
+- High Poly Vanilla Hair
+- Vanilla Hair - Salt and Wind
+- Hvergelmir's Aesthetics - Brows
+- Hvergelmir's Aesthetics - Beards
+- Beard Stubble
+- The Eyes of Beauty - Ai Remastered
+- Immersive Mouth and Teeth
+- ORCODONTIST - Orsimer Mouth and Teeth Fix
+- Better Beast Race Scars
+- PAINTERLY - A High Res Vanilla Warpaint Retexture
+- Forsworn and Blackblood and Boethiah Tattoos
+- SB - Old People Consistency
 ### Removed
 - Beyond Skyrim: Bruma
 - Every mod that required BS Bruma
@@ -16,6 +44,8 @@ This update is NOT save safe.
 - Challenging Spell Learning + Alternate Animation
 - Simply Reduced Loot
 - Sforzinda Destinations
+- Cathedral Player and NPC Overhaul - HMB II
+- Al's HMB Facegen Patches
 ### Updated
 - Now uses Stock Game folder system
 - Paradigm
