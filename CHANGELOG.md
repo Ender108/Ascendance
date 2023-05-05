@@ -13,10 +13,8 @@ This update is NOT save safe.
 - Detailmap Seamfix
 - Vanilla Body with UNP Textures
 - Males Of Skyrim - High Poly Hands
-- Tempered Skins for Females
-- Tempered Skins for Males
-- Tempered Racial Textures
-- Tempered Racial Textures - Ring of Disrobing Patch
+- Vitruvia - Skin texture overhaul for males
+- Reverie Skin
 - Afflicted Female Hand Fix
 - CoverKhajiits - Face Textures
 - Flawn's Vanilla Argonians Redux
