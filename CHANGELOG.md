@@ -42,6 +42,7 @@ This update is NOT save safe.
 - ALT - The Snow Elves Throne
 - DLC2dunFrostmoonTriggerScript Optimization
 - SB - Better Blending Helgen Mud
+- unofficial performance optimized textures
 ### Removed
 - Beyond Skyrim: Bruma
 - Every mod that required BS Bruma
