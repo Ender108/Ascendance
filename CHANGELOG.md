@@ -42,6 +42,7 @@ This update is NOT save safe.
 - SB - Better Blending Helgen Mud
 - unofficial performance optimized textures
 - Falmer Armors and Weapons Retexture SE
+- Custom FaceGen
 ### Removed
 - Beyond Skyrim: Bruma
 - Every mod that required BS Bruma
