@@ -60,6 +60,7 @@ This update is NOT save safe.
 - Lux Orbis
 - Supreme Weathers for Azurite
 - Dragonborn - Shouts Perk Tree
+- Forceful Tongue
 - Challenging Spell Learning + Alternate Animation
 - Simply Reduced Loot
 - Sforzinda Destinations
