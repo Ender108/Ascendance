@@ -1,6 +1,8 @@
 ## (Unreleased) Version 1.2.0
 This update is NOT save safe.
 ### Added
+- Ambiance
+- Relighting Skyrim
 - Spell Learning Restriction
 - Ruin Coins
 - Road Signs Fast Travel - Base Object Swapper
