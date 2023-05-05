@@ -5,6 +5,9 @@ This update is NOT save safe.
 - Native EditorID Fix
 - RAID Weathers + lower saturation
 - RAID Weathers - Brighter Nights (KreatE Preset)
+- Spell Learning Restriction
+- Ruin Coins
+- Road Signs Fast Travel - Base Object Swapper
 ### Removed
 - Beyond Skyrim: Bruma
 - Every mod that required BS Bruma
@@ -13,8 +16,12 @@ This update is NOT save safe.
 - Azurite Weathers
 - Supreme Weathers for Azurite
 - Dragonborn - Shouts Perk Tree
+- Challenging Spell Learning + Alternate Animation
+- Simply Reduced Loot
+- Sforzinda Destinations
 ### Updated
 - Now uses Stock Game folder system
+- Paradigm
 
 ## Version 1.1.9
 This update is NOT save safe if you are using Khajiit Speak.
