@@ -28,7 +28,7 @@ This update is NOT save safe.
 - Hvergelmir's Aesthetics - Beards
 - Beard Stubble
 - The Eyes of Beauty - Ai Remastered
-- Immersive Mouth and Teeth
+- BnP Teeth
 - ORCODONTIST - Orsimer Mouth and Teeth Fix
 - Better Beast Race Scars
 - PAINTERLY - A High Res Vanilla Warpaint Retexture
