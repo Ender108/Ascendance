@@ -49,6 +49,10 @@ This update is NOT save safe.
 - Custom Archery Tweaks
 - Skyland AIO (Not Only) - Better Imperial Forts
 - Troll by Kajuan
+- Giant by Kajuan
+- Draugr by Kajuan
+- Skeleton Replacer HD
+- Unique Skulls HD
 ### Removed
 - Beyond Skyrim: Bruma
 - Every mod that required BS Bruma
