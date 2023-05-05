@@ -38,6 +38,10 @@ This update is NOT save safe.
 - SB - Old People Consistency
 - Falmer Overhaul - New models and textures
 - Skyrim SE Skill Interface Re-Texture (SSIRT) - Hand to Hand Patch
+- GKB Waves Reborn
+- ALT - The Snow Elves Throne
+- DLC2dunFrostmoonTriggerScript Optimization
+- SB - Better Blending Helgen Mud
 ### Removed
 - Beyond Skyrim: Bruma
 - Every mod that required BS Bruma
