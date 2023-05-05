@@ -43,6 +43,8 @@ This update is NOT save safe.
 - unofficial performance optimized textures
 - Falmer Armors and Weapons Retexture SE
 - Custom FaceGen
+- FormList Manipulator
+- Mfg Fix
 ### Removed
 - Beyond Skyrim: Bruma
 - Every mod that required BS Bruma
@@ -56,6 +58,7 @@ This update is NOT save safe.
 - Cathedral Player and NPC Overhaul - HMB II
 - Al's HMB Facegen Patches
 - ArteFakes
+- H to Horse
 ### Updated
 - Now uses Stock Game folder system
 - Paradigm
