@@ -1,19 +1,16 @@
 ## (Unreleased) Version 1.2.0
 This update is NOT save safe.
 ### Added
-- KreatE
-- Native EditorID Fix
-- RAID Weathers + lower saturation
-- RAID Weathers - Brighter Nights (KreatE Preset)
 - Spell Learning Restriction
 - Ruin Coins
 - Road Signs Fast Travel - Base Object Swapper
+- Aura's Scrumptious Supplement
+- Phenomenally Enriched and Nuanced Ingredients for SkyUI
 ### Removed
 - Beyond Skyrim: Bruma
 - Every mod that required BS Bruma
 - Lux
 - Lux Orbis
-- Azurite Weathers
 - Supreme Weathers for Azurite
 - Dragonborn - Shouts Perk Tree
 - Challenging Spell Learning + Alternate Animation
