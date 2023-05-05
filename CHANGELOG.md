@@ -47,6 +47,7 @@ This update is NOT save safe.
 - Mfg Fix
 - A Quality World Map
 - Custom Archery Tweaks
+- Skyland AIO (Not Only) - Better Imperial Forts
 ### Removed
 - Beyond Skyrim: Bruma
 - Every mod that required BS Bruma
