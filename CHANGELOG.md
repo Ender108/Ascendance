@@ -43,6 +43,7 @@ This update is NOT save safe.
 - DLC2dunFrostmoonTriggerScript Optimization
 - SB - Better Blending Helgen Mud
 - unofficial performance optimized textures
+- Falmer Armors and Weapons Retexture SE
 ### Removed
 - Beyond Skyrim: Bruma
 - Every mod that required BS Bruma
