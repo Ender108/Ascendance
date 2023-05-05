@@ -39,6 +39,7 @@ This update is NOT save safe.
 - Forsworn and Blackblood and Boethiah Tattoos
 - SB - Old People Consistency
 - Falmer Overhaul - New models and textures
+- Skyrim SE Skill Interface Re-Texture (SSIRT) - Hand to Hand Patch
 ### Removed
 - Beyond Skyrim: Bruma
 - Every mod that required BS Bruma
