@@ -45,6 +45,7 @@ This update is NOT save safe.
 - Custom FaceGen
 - FormList Manipulator
 - Mfg Fix
+- A Quality World Map
 ### Removed
 - Beyond Skyrim: Bruma
 - Every mod that required BS Bruma
