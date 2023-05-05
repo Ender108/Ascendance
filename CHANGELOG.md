@@ -34,6 +34,7 @@ This update is NOT save safe.
 - PAINTERLY - A High Res Vanilla Warpaint Retexture
 - Forsworn and Blackblood and Boethiah Tattoos
 - SB - Old People Consistency
+- Falmer Overhaul - New models and textures
 ### Removed
 - Beyond Skyrim: Bruma
 - Every mod that required BS Bruma
@@ -46,6 +47,7 @@ This update is NOT save safe.
 - Sforzinda Destinations
 - Cathedral Player and NPC Overhaul - HMB II
 - Al's HMB Facegen Patches
+- ArteFakes
 ### Updated
 - Now uses Stock Game folder system
 - Paradigm
