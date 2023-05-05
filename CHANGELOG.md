@@ -12,6 +12,7 @@ This update is NOT save safe.
 - Lux Orbis
 - Azurite Weathers
 - Supreme Weathers for Azurite
+- Dragonborn - Shouts Perk Tree
 ### Updated
 - Now uses Stock Game folder system
 
