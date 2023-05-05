@@ -1,6 +1,7 @@
 ## (Unreleased) Version 1.2.0
 This update is NOT save safe.
 ### Added
+- STORMCROWN - A SHOUT OVERHAUL
 - Ambiance
 - Relighting Skyrim
 - Spell Learning Restriction
@@ -60,7 +61,7 @@ This update is NOT save safe.
 - Lux Orbis
 - Supreme Weathers for Azurite
 - Dragonborn - Shouts Perk Tree
-- Forceful Tongue
+- Forceful Tongue - Shouts Overhaul
 - Challenging Spell Learning + Alternate Animation
 - Simply Reduced Loot
 - Sforzinda Destinations
@@ -72,6 +73,7 @@ This update is NOT save safe.
 ### Updated
 - Now uses Stock Game folder system
 - Paradigm
+- Other stuff idk
 
 ## Version 1.1.9
 This update is NOT save safe if you are using Khajiit Speak.
