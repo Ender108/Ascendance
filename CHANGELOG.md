@@ -3,6 +3,8 @@ This update is NOT save safe.
 ### Added
 - Ambiance
 - Relighting Skyrim
+- Cathedral Water
+- Simplicity of Sea
 - Spell Learning Restriction
 - Ruin Coins
 - Road Signs Fast Travel - Base Object Swapper
@@ -50,6 +52,7 @@ This update is NOT save safe.
 - Cathedral Player and NPC Overhaul - HMB II
 - Al's HMB Facegen Patches
 - ArteFakes
+- Realistic Water Two
 ### Updated
 - Now uses Stock Game folder system
 - Paradigm
