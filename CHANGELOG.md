@@ -48,6 +48,7 @@ This update is NOT save safe.
 - A Quality World Map
 - Custom Archery Tweaks
 - Skyland AIO (Not Only) - Better Imperial Forts
+- Troll by Kajuan
 ### Removed
 - Beyond Skyrim: Bruma
 - Every mod that required BS Bruma
