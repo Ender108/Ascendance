@@ -54,6 +54,7 @@ This update is NOT save safe.
 - Draugr by Kajuan
 - Skeleton Replacer HD
 - Unique Skulls HD
+- Horse Whistle Key
 ### Removed
 - Beyond Skyrim: Bruma
 - Every mod that required BS Bruma
