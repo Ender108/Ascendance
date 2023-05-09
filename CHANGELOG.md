@@ -1,3 +1,8 @@
+## Version 1.2.1
+This update is save safe
+### Updated
+- Stormcrown - A Shouts Overhaul
+
 ## Version 1.2.0
 This update is NOT save safe.
 ### Added
