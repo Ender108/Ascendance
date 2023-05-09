@@ -1,5 +1,7 @@
 ## Version 1.2.1
 This update is save safe
+### Added
+- RemoveAllItems Freeze Fix
 ### Updated
 - Stormcrown - A Shouts Overhaul
 
