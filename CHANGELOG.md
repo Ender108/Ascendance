@@ -11,6 +11,7 @@ This update is save safe.
 ### Updated
 - Stormcrown - A Shout Overhaul
 - Lawless - A Bandit Overhaul
+- Community Shaders
 - Arclight
 - Vulcano
 - Stellaris
