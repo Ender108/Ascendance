@@ -1,3 +1,23 @@
+## Version 1.2.2
+This update is save safe.
+### Added
+- Xavbio's Ancient Nord Armors and Weapons Retexture
+- Modular Armory - Ancient Nord Armors and Weapons Retexture Patch
+- Grass Sampling Fix
+- TAA Deblur
+- MQ104PlayerScript Fix
+- Desecration
+- PI-CHO ENB as an optional high quality preset
+### Updated
+- Stormcrown - A Shout Overhaul
+- Lawless - A Bandit Overhaul
+- Arclight
+- Vulcano
+- Stellaris
+- Necrom
+- Flames of Coldharbour
+- Bloodmoon
+
 ## Version 1.2.1
 This update is save safe.
 ### Added
