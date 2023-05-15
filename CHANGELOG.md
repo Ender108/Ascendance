@@ -1,5 +1,28 @@
+## Version 1.2.2
+This update is save safe.
+### Added
+- Grass Sampler Fix
+- TAA Deblur
+- Xavbio's Ancient Nord Armors and Weapons Retexture
+- Modular Armory - Ancient Nord Armors and Weapons Retexture Patch
+- Cathedral - 3D Solstheim Grass
+- MQ104PlayerScript Fix
+### Removed
+- FrozenLands
+### Updated
+- Stormcrown - A Shouts Overhaul
+- Lawless - A Bandit Overhaul
+- Community Shaders
+- Arclight
+- Vulcano
+- Stellaris
+- Necrom
+- Bloodmoon
+- Regenerated LODs
+- Regenerated FaceGen using TintMaskResolution=512
+
 ## Version 1.2.1
-This update is save safe
+This update is save safe.
 ### Added
 - RemoveAllItems Freeze Fix
 ### Updated
