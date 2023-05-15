@@ -1,4 +1,4 @@
-## Version 1.2.2
+## (Unreleased) Version 1.2.2
 This update is save safe.
 ### Added
 - Grass Sampler Fix
