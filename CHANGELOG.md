@@ -1,5 +1,5 @@
 ## Version 1.3.1.1
-- - More bullshit updates idk
+- More bullshit updates I forgot
 
 ## Version 1.3.1
 This update is save safe.
