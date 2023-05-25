@@ -5,6 +5,8 @@ This update is save safe.
 ### Removed
 - Frankly HD Dawnguard Armor and Weapons
 ### Updated
+- Adamant - A Perk Overhaul
+- Hand to Hand - An Adamant Addon
 - Dragon War - A Dragon Overhaul
 - The Dragon Cult - A Draugr Overhaul
 
