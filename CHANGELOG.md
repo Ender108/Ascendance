@@ -1,4 +1,14 @@
 ## Version 1.3.0
+This update is save safe.
+### Added
+- Xavbio's Dawnguard Armors and Weapons Retexture
+### Removed
+- Frankly HD Dawnguard Armor and Weapons
+### Updated
+- Dragon War - A Dragon Overhaul
+- The Dragon Cult - A Draugr Overhaul
+
+## Version 1.3.0
 This update is NOT save safe.
 ### Added
 - Instantly Skip Dialogue NG
