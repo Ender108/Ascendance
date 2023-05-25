@@ -1,5 +1,6 @@
 ## Version 1.3.1.1
 - More bullshit updates I forgot
+- Added back Frankly HD Dawnguard Armor and Weapons for cool epic hammer
 
 ## Version 1.3.1
 This update is save safe.
