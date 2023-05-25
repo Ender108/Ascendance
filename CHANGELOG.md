@@ -1,3 +1,51 @@
+## Version 1.3.0
+This update is NOT save safe.
+### Added
+- Instantly Skip Dialogue NG
+- A Clear Map of Skyrim and Other Worlds
+- ACMOS Road Generator
+- True Storms
+- True Storms and Azurite Patch
+- Fires and Embers Clipping Fix
+- Fires and Embers Clipping Fix - Relighting Skyrim Patch
+- Cathedral Player and NPC Overhaul - HMB II
+- Cathedral Player and NPC Overhaul - ECSS Patch
+- Al's HMB FaceGen Patches
+- Vanilla Warpaints Absolution
+- Vanilla Makeup HD
+- CC's HD Dwemer Automatons - Remastered
+- Xavbio's Nightingale Armor and Weapons Retexture
+- Arcane
+- Darenii's spells drop rate nerf
+- SIRENROOT - Deluge of Deceit
+- C.O.I.N. - Coins of Interesting Natures
+- C.O.I.N. Hand to Hand Patch
+- C.O.I.N. - Merchant Exchange
+### Removed
+- Don't Eat Spell Tomes
+- FrozenLands
+- ReShade - Ascendance Preset
+- All overwritten Appearance mods
+- Frankly HD Nightingale Armor and Weapons
+- Spell Learning Restriction
+- Ruin Coins
+- Ancient Dwemer Metal + All Patches
+- Ascendance - FacGen
+- A Quality World Map
+### Updated
+- Icy Mesh Remaster
+- Modular Armory (Now using the 2k version and deleting overwritten files)
+- Aetherius - A Race Overhaul
+- Mundus - A Standing Stone Overhaul
+- Mundus - USSEP Tower Stone Patch
+- Hand to Hand - An Adamant Addon
+- Stormcrown - A Shout Overhaul
+- Natura
+- Lunaris
+- Stellaris
+- Creation Club - Reintegrated
+- ENB Binaries
+
 ## Version 1.2.2
 This update is save safe.
 ### Added
