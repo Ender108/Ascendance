@@ -1,4 +1,4 @@
-## Version 1.3.0
+## Version 1.3.1
 This update is save safe.
 ### Added
 - Xavbio's Dawnguard Armors and Weapons Retexture
