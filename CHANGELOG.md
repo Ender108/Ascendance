@@ -9,6 +9,7 @@ This update is save safe.
 - Hand to Hand - An Adamant Addon
 - Dragon War - A Dragon Overhaul
 - The Dragon Cult - A Draugr Overhaul
+- More bullshit updates idk
 
 ## Version 1.3.0
 This update is NOT save safe.
