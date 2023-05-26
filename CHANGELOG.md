@@ -1,3 +1,23 @@
+### Version 1.3.2
+This update is save safe.
+
+### Added
+- The Handy Icon Collection Collective
+- Journeyman - A Fast Travel Overhaul
+- Subliminal Traps
+- CC Farming Rebalanced
+
+### Removed
+- Help Extender
+- Road Signs Fast Travel
+
+### Updated
+- Fixed the Esc key not exiting menus
+- Untarnished UI, using custom HUD preset
+- Uncapper INI settings, early game skill leveling will be noticeably slower but will gradually increase as your character level increases
+- Blade and Blunt - A Combat Overhaul 3.0
+- Paradigm - A Quick Start Overhaul
+
 ## Version 1.3.1.1
 - More bullshit updates I forgot
 - Added back Frankly HD Dawnguard Armor and Weapons for cool epic hammer
