@@ -12,7 +12,7 @@ Ascendance is a lightweight difficulty modlist for Skyrim. The goal of Ascendanc
 - Quest mods such as Wyrmstooth, Sirenroot, and Skyrim Extended Cut - Saints and Seducers.
 
 # Requirements
-- The latest version (currently 1.6.640 for Steam) of The Elder Scrolls V: Skyrim Special Edition. The GoG version of Skyrim is NOT supported at the moment.
+- The latest version (currently 1.6.640 for Steam) of The Elder Scrolls V: Skyrim Special Edition. The GoG version of Skyrim is NOT supported.
 - All Creation Club content from the paid Anniversary Edition upgrade.
 
 # Recommended Specs
