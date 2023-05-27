@@ -1,5 +1,7 @@
 ![image](https://user-images.githubusercontent.com/19737384/234403208-495d22f5-92e0-4b56-a60e-4ced017dfa5e.png)
 
+## [Changelog](https://github.com/Ender108/Ascendance/blob/main/CHANGELOG.md) | [Discord](https://discord.gg/WF66mMu) | [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/89515) | [Load Order Library](https://loadorderlibrary.com/lists/ascendance)
+
 # Introduction
 Ascendance is a lightweight difficulty modlist for Skyrim. The goal of Ascendance is to improve gameplay in a challenging yet rewarding way while staying true to the core Skyrim experience. Ascendance also includes a noticeable visual upgrade while still maintaining very high performance.
 
