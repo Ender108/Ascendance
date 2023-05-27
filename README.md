@@ -3,6 +3,14 @@
 # Introduction
 Ascendance is a lightweight difficulty modlist for Skyrim. The goal of Ascendance is to improve gameplay in a challenging yet rewarding way while staying true to the core Skyrim experience. Ascendance also includes a noticeable visual upgrade while still maintaining very high performance.
 
+# Modlist Features
+- Simon Magus' suite of gameplay overhauls (Mysticism, Adamant, Apothecary, Thaumaturgy...).
+- Enemy overhauls such as Dragon War, The Dragon Cult, Lawless, Hokoron, and King-Priest.
+- Dareni's suite of new spells (Natura, Lunaris, Abyss, Vulcano, Stellaris...).
+- Full Anniversary Edition Creation Club support with proper balancing and improved integration.
+- Very, very low performance impact due to using the Community Shaders suite by default (Vanilla HDR, Grass Lighting, TAA Deblur, Grass Sampling...), although ENBSeries with The Vanilla ENB Two is included as an optional.
+- Quest mods such as Wyrmstooth, Sirenroot, and Skyrim Extended Cut - Saints and Seducers.
+
 # Requirements
 - The latest version (currently 1.6.640 for Steam) of The Elder Scrolls V: Skyrim Special Edition. The GoG version of Skyrim is NOT supported at the moment.
 - All Creation Club content from the paid Anniversary Edition upgrade.
