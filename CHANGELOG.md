@@ -1,3 +1,12 @@
+## Version 1.3.2.1
+This update is save safe.
+### Added
+- Dual Casting Fix
+- NPCs React To Invisibility
+- NPCs React To Invisibility - Bow of Shadows Patch
+### Updated
+- Uncapper INI: Increased leveling rates by a moderate amount, it was too slow in the early game.
+
 ## Version 1.3.2
 This update is save safe.
 
