@@ -1,3 +1,11 @@
+## Version 1.3.2.2
+This update is save safe.
+### Added 
+- Skyrim Skill Uncapper for SE and AE
+### Removed
+- Skyrim Skill Uncapper(fixed)
+- SkyHUD - Alternate White Dot Crosshair (Not needed and breaks Untarnished UI)
+
 ## Version 1.3.2.1
 This update is save safe.
 ### Added
