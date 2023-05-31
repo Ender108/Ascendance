@@ -1,3 +1,21 @@
+## Version 1.3.3
+This update is save safe.
+### Added
+- Gemling Queen Jewelry
+- Gemling Queen Jewelry USSEP Circlet Fix
+- Extended Gemling Queen Jewelry
+- RUSTIC AMULETS
+### Removed
+- Vanilla HDR (Breaks Soul Cairn lighting and washes out shadows)
+- Inferno - Fire Effects Redux
+- ENB IMOD Separator (Not needed with the newest Vanilla ENB Two)
+### Updated
+- Enabled Volumetric Lighting (Very minor performance loss)
+- Fixed Uncapper INI not working properly
+- Switched to Darker Ambient Interior Fog version of Ambiance (Interiors are way too dark without VHDR)
+- Embers XD
+- The Vanilla ENB Two
+
 ## Version 1.3.2.2
 This update is save safe.
 ### Added 
