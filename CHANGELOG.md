@@ -2,6 +2,8 @@
 This update is NOT save safe
 ### List rebuilt from scratch. Everything changed dawg.
 - I seriously didn't write a changelog. Just check the Load Order Library and compare the two.
+- 1.3.3 https://loadorderlibrary.com/lists/ascendance
+- 2.0.0 https://loadorderlibrary.com/lists/ascendance-2-rc1
 
 ## Version 1.3.3
 This update is save safe.
