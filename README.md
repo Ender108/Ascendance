@@ -2,7 +2,7 @@
 
 <div align="center">
 
-## [Changelog](https://github.com/Ender108/Ascendance/blob/main/CHANGELOG.md) | [Discord](https://discord.gg/WF66mMu) | [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/89515) | [Load Order Library](https://loadorderlibrary.com/lists/ascendance)
+## [Changelog](https://github.com/Ender108/Ascendance/blob/main/CHANGELOG.md) | [Discord](https://discord.gg/WF66mMu) | [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/89515) | [Load Order Library](https://loadorderlibrary.com/lists/ascendance-2-rc1)
   
   </div>
 
