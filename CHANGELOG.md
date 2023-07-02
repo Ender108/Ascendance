@@ -1,3 +1,31 @@
+## Version 2.0.1
+This update is save safe.
+### Added
+- Journeyman - A Fast Travel Overhaul
+- Camera Persistence Fixes
+- MQ105SprintTriggerScript Fix
+- Brawl Lines Expansion and Fixes
+- Skóglendi - A Grass Mod
+- Adamant - Bard Perks Addon
+- Customizable Faster Woodcutting Animation
+- Faster Mining Plus
+- Photo Mode
+- Capitals and Towns of Skyrim - Snow Fix
+- Snowy Statics Consistency
+- Simple Snow Improvements - Skyrim
+- Simple Snow Improvements - Snow Forts
+- Simple Snow Improvements - Giant Obelisks
+### Removed
+- Vanilla Complex Grasses
+- Enhanced Landscapes Grass - Near Vanilla Mix
+- Enhanced Landscapes Grass - Near Vanilla Mix - Darkened for Grass Lighting
+- CoMAP - Common Marker Addon Project - Temp Workaround
+### Updated
+- Adamant - A Perk Overhaul
+- Compass Navigation Overhaul
+- Untarnished UI
+
+
 ## Version 2.0.0
 This update is NOT save safe
 ### List rebuilt from scratch. Everything changed dawg.
