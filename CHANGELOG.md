@@ -1,3 +1,9 @@
+## Version 2.0.2 (Unreleased)
+This update is save safe.
+### Updated
+- Switched to normal version of Paradigm
+- Dareni's spells are no longer distributed to NPCs
+
 ## Version 2.0.1
 This update is save safe.
 ### Added
