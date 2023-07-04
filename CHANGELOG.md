@@ -1,8 +1,16 @@
-## Version 2.0.2 (Unreleased)
+## Version 2.0.2
 This update is save safe.
+### Added
+- Mysticism Poison Crash Fix Test
+- Relics of the Crusader Improved
+### Removed
+- Divine Crusader - No Murder
 ### Updated
 - Switched to normal version of Paradigm
 - Dareni's spells are no longer distributed to NPCs
+- Brawl Lines Expansion and Fixes
+- Photo Mode
+- Open Animation Replacer
 
 ## Version 2.0.1
 This update is save safe.
