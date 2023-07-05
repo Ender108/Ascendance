@@ -1,4 +1,4 @@
-## Version 2.0.3 (Unreleased)
+## Version 2.0.3
 This update is save safe.
 ### Added
 - Skyland Bits and Bobs - A Clutter Overhaul
