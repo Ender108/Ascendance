@@ -3,6 +3,9 @@ This update is save safe.
 ### Added
 - Skyland Bits and Bobs - A Clutter Overhaul
 - Skyland Bits and Bobs - Embers HD Patch
+### Removed
+- Immersive Dragons
+- Supreme Vampire Lords
 ### Updated
 - Photo Mode
 - Open Animation Replacer
