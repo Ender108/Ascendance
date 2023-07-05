@@ -1,3 +1,16 @@
+## Version 2.0.4
+This update is save safe.
+### Added
+- Xavbio's Armors and Weapons Retextures
+- YASTM - Yet Another Soul Trap Manager
+- I'm Talkin' Here
+### Removed
+- Optional ENBSeries section
+### Updated
+- Using NoGrass Bethesda's Cut version of Skoglendi
+- Fixed Hand to Hand perk tree icon not showing
+- Skyland Bits and Bobs - A Clutter Overhaul
+
 ## Version 2.0.3
 This update is save safe.
 ### Added
