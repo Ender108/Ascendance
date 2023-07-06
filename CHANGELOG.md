@@ -4,6 +4,7 @@ This update is save safe.
 - d3dcompiler_47
 - Water Blending
 - Underfilled Soul Gems - Soul Gem Too Small
+- Dynamic Random Dragons
 ### Removed
 - YASTM - Yet Another Soul Trap Manager (wasn't working for some reason)
 ### Updated
