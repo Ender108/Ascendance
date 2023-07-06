@@ -1,3 +1,10 @@
+## Version 2.0.6
+This update is save safe.
+### Added
+- Dawnguard - Tweaks and Enhancements (This wont do anything if you've already started the Dawnguard DLC)
+### Updated
+- Crusader - A Simonrim Uncapper Profile
+
 ## Version 2.0.5
 This update is save safe.
 ### Added
