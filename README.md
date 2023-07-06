@@ -14,7 +14,7 @@ Ascendance is a lightweight difficulty modlist for Skyrim. The goal of Ascendanc
 - Enemy overhauls such as Dragon War, The Dragon Cult, Lawless, Hokoron, and King-Priest.
 - Dareni's suite of new spells (Natura, Lunaris, Abyss, Vulcano, Stellaris...).
 - Full Anniversary Edition Creation Club support with proper balancing and improved integration.
-- Very, very low performance impact due to using the Community Shaders suite by Doodlum (Grass Lighting, TAA Deblur, Grass Sampling...).
+- Very low performance impact due to using the Community Shaders suite by Doodlum (Grass Lighting, TAA Deblur, Grass Sampling...).
 - Quest mods such as Wyrmstooth, Sirenroot, and Skyrim Extended Cut - Saints and Seducers.
 
 # Requirements
