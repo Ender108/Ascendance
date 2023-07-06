@@ -1,3 +1,15 @@
+## Version 2.0.5
+This update is save safe.
+### Added
+- d3dcompiler_47
+- Water Blending
+- Underfilled Soul Gems - Soul Gem Too Small
+### Removed
+- YASTM - Yet Another Soul Trap Manager (wasn't working for some reason)
+### Updated
+- Enabled Underfilled Soul Gems in Scrambled Bugs
+- Community Shaders
+
 ## Version 2.0.4
 This update is save safe.
 ### Added
