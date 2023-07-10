@@ -1,3 +1,24 @@
+## Version 2.0.7
+This update is save safe.
+### Added
+- NPC Stuck in Bleedout fix
+- Xavbio's Ancient Falmer Armors and Weapons Retexture
+- YASTM - Yet Another Soul Trap Manager
+- Sorcerer - A Staff and Scroll Overhaul
+- Sorcerer Patches
+### Removed
+- Underfilled Soul Gems - Soul Gem Too Small
+### Updated
+- Skyland Bits and Bobs - A Clutter Overhaul
+- Aetherius - A Race Overhaul
+- Mysticism - A Magic Overhaul
+- Adamant - A Perk Overhaul
+- Blade and Blunt - A Combat Overhaul
+- Hand to Hand - An Adamant Addon
+- CC Staves - Mysticism Consistency Patch
+- Fixed the word "Noble" showing as $Noble in the crafting menu
+- Fixed Galdur Amulet description
+
 ## Version 2.0.6
 This update is save safe.
 ### Added
