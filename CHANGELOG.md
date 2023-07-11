@@ -1,3 +1,16 @@
+## Version 2.1.0 (Unreleased)
+This update is NOT save safe.
+### Added
+- The Heart of Dibella - Quest Expansion
+- Civil War Champions - Reduced Cut
+### Removed
+- Sexier Vanilla - Civil War Champions
+### Updated
+- Simplicity of Snow
+- Stormcrown - A Shout Overhaul
+- The Dragon Cult - Priesthood
+- Creation Club - Reintegrated
+
 ## Version 2.0.7
 This update is save safe.
 ### Added
