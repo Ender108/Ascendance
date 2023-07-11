@@ -7,6 +7,7 @@ This update is NOT save safe.
 - Sexier Vanilla - Civil War Champions
 ### Updated
 - Simplicity of Snow
+- Skyland Bits and Bobs - A Clutter Overhaul
 - Stormcrown - A Shout Overhaul
 - The Dragon Cult - Priesthood
 - Creation Club - Reintegrated
