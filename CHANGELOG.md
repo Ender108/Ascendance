@@ -1,6 +1,7 @@
 ## Version 2.0.8 (Unreleased)
 This update is NOT save safe if you have already unlocked the Shout Meditation and/or you have started Dragon Cult Priesthood.
 ### Added
+- Infinite Dragon Variants
 - The Heart of Dibella - Quest Expansion
 - Civil War Champions - Reduced Cut
 ### Removed
