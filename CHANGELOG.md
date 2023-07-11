@@ -1,5 +1,5 @@
 ## Version 2.1.0 (Unreleased)
-This update is NOT save safe.
+This update is NOT save safe if you have already unlocked the Shout Meditation and/or you have started Dragon Cult Priesthood.
 ### Added
 - The Heart of Dibella - Quest Expansion
 - Civil War Champions - Reduced Cut
