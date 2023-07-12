@@ -7,6 +7,7 @@ This update is NOT save safe if you have already unlocked the Shout Meditation a
 ### Removed
 - Sexier Vanilla - Civil War Champions
 ### Updated
+- Community Shaders
 - Simplicity of Snow
 - Skyland Bits and Bobs - A Clutter Overhaul
 - Stormcrown - A Shout Overhaul
