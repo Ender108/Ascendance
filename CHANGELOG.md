@@ -1,12 +1,17 @@
 ## Version 2.0.8
-This update is NOT save safe if you have already unlocked the Shout Meditation and/or you have started Dragon Cult Priesthood.
+This update is NOT save safe if you have already unlocked the Shout Meditation and/or you have started Dragon Cult Priesthood. Save in an interior before updating.
 ### Added
 - Curated Bosses for True HUD
+- Fabled Forests
+- Realistic High Altitude Treeline
 - Infinite Dragon Variants
 - The Heart of Dibella - Quest Expansion
 - Civil War Champions - Reduced Cut
 - Disable Annoying Werewolf Killmove
 ### Removed
+- Happy Little Trees
+- Happy Little Trees - DLC Trees (Base Object Swapper)
+- Happy Little Logs
 - Sexier Vanilla - Civil War Champions
 ### Updated
 - Community Shaders
@@ -17,6 +22,7 @@ This update is NOT save safe if you have already unlocked the Shout Meditation a
 - College of Winterhold - Quest Expansion
 - Creation Club - Reintegrated
 - Disabled Precision Attack Collisons (Too easy to cheese enemies with the new collisions)
+- Regenerated TexGen and DynDOLOD
 
 ## Version 2.0.7
 This update is save safe.
