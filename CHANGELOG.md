@@ -1,5 +1,5 @@
 ## Version 2.0.8
-This update is NOT save safe if you have already unlocked the Shout Meditation and/or you have started Dragon Cult Priesthood. Save in an interior before updating.
+This update is NOT save safe.
 ### Added
 - Curated Bosses for True HUD
 - Fabled Forests
