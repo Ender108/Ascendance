@@ -1,10 +1,11 @@
-## Version 2.0.8 (Unreleased)
+## Version 2.0.8
 This update is NOT save safe if you have already unlocked the Shout Meditation and/or you have started Dragon Cult Priesthood.
 ### Added
 - Curated Bosses for True HUD
 - Infinite Dragon Variants
 - The Heart of Dibella - Quest Expansion
 - Civil War Champions - Reduced Cut
+- Disable Annoying Werewolf Killmove
 ### Removed
 - Sexier Vanilla - Civil War Champions
 ### Updated
@@ -13,7 +14,9 @@ This update is NOT save safe if you have already unlocked the Shout Meditation a
 - Skyland Bits and Bobs - A Clutter Overhaul
 - Stormcrown - A Shout Overhaul
 - The Dragon Cult - Priesthood
+- College of Winterhold - Quest Expansion
 - Creation Club - Reintegrated
+- Disabled Precision Attack Collisons (Too easy to cheese enemies with the new collisions)
 
 ## Version 2.0.7
 This update is save safe.
