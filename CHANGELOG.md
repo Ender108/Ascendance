@@ -1,4 +1,4 @@
-## Version 2.0.8
+## Version 2.1.0
 This update is NOT save safe.
 ### Added
 - Curated Bosses for True HUD
