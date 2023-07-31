@@ -1,3 +1,40 @@
+## Version 2.2.0
+This update is NOT save safe.
+## All Creation Club content has been removed EXCEPT for the following:
+- Adventurer's Backpack
+- Alternative Armors - Daedric Mail
+- Alternative Armors - Daedric Plate
+- Alternative Armors - Dragon Plate
+- Alternative Armors - Dragonscale
+- Alternative Armors - Dwarven Mail
+- Alternative Armors - Dwarven Plate
+- Alternative Armors - Ebony Plate
+- Alternative Armors - Elven Hunter
+- Alternative Armors - Iron
+- Alternative Armors - Leather
+- Alternative Armors - Orcish Plate
+- Alternative Armors - Orcish Scaled
+- Alternative Armors - Silver
+- Alternative Armors - Stalhrim Fur
+- Alternative Armors - Steel Soldier
+- Camping
+- Divine Crusader
+- Elite Crossbows
+- Expanded Crossbow Pack
+- Fearsome Fists
+- Fishing
+- Netch Leather Armor
+- Redguard Elite Armaments
+- Saints & Seducers
+- Spell Knight Armor
+- Survival Mode
+- Vigil Enforcer Armor Set
+## Added
+- Beyond Skyrim: Bruma
+### Removed
+- Dareni's spell mods
+- All mods that relied on the removed CC content
+
 ## Version 2.1.0
 This update is NOT save safe.
 ### Added
