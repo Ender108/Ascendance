@@ -1,3 +1,10 @@
+## Version 2.2.1
+This update is save safe
+### Added
+- Legion - A Bruma Encounter Zone Overhaul
+### Removed
+- Cooking Categories Improvement
+
 ## Version 2.2.0
 This update is NOT save safe.
 ### All Creation Club content has been removed EXCEPT for the following:
