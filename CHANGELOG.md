@@ -30,10 +30,42 @@ This update is NOT save safe.
 - Survival Mode
 - Vigil Enforcer Armor Set
 ### Added
+- Dynamic Activation Key
 - Beyond Skyrim: Bruma
+- Gourmet - A Cooking Overhaul + Patches
+- Dawnguard Arsenal
+- Beyond Skyrim Bruma - Adamantium Addon
+- Beyond Skyrim- The Lost Roscrean Blade
+- Pirates Wield Cutlasses
+- CC Camping - Comfy Sleeping
+- Spell Knight Armor - Light Armor Variants and Tweaks
+- Warmage of Shornhelm - Redone Spell Knight Armor for Thamauturgy
+- Fearsome Fists - Hand to Hand Patch
+- Legacy of the Remnants
+- CC Divine Crusader - Breton Paladin Peplacer
+- Administer Potions and Poisons to Friendly NPCs
+- Ish's Respec Mod
+- Weapon Speed - ITM
+- Animals Swim (Sort of)
+- Simple Snow Improvements - Solstheim Ruins
+- Vanilla Nights
+- Aspens Ablaze
+- Embers XD
+- Vampire Armors and Weapons Retexture SE
 ### Removed
+- Root Builder
+- Curation Club
 - Dareni's spell mods
 - All mods that relied on the removed CC content
+- RAID Weathers - Brighter Nights (Vanilla Nights does this better)
+- Embers HD
+### Updated
+Relics of the Crusader Improved
+Aetherius - A Race Overhaul
+Mundus - A Standing Stone Overhaul
+Apothecary - An Alchemy Overhaul
+Stormcrown - A Shout Overhaul
+Journeyman - A Fast Travel Overhaul
 
 ## Version 2.1.0
 This update is NOT save safe.
