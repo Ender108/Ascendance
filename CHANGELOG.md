@@ -60,12 +60,12 @@ This update is NOT save safe.
 - RAID Weathers - Brighter Nights (Vanilla Nights does this better)
 - Embers HD
 ### Updated
-Relics of the Crusader Improved
-Aetherius - A Race Overhaul
-Mundus - A Standing Stone Overhaul
-Apothecary - An Alchemy Overhaul
-Stormcrown - A Shout Overhaul
-Journeyman - A Fast Travel Overhaul
+- Relics of the Crusader Improved
+- Aetherius - A Race Overhaul
+- Mundus - A Standing Stone Overhaul
+- Apothecary - An Alchemy Overhaul
+- Stormcrown - A Shout Overhaul
+- Journeyman - A Fast Travel Overhaul
 
 ## Version 2.1.0
 This update is NOT save safe.
