@@ -3,7 +3,7 @@ This update is save safe.
 ### Added
 - Default Face NPCs Fixed
 ### Updated
-- Fixed SKSE meta file download
+- Fixed SKSE download
 
 ## Version 2.2.1
 This update is save safe.
