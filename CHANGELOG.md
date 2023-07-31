@@ -1,6 +1,6 @@
 ## Version 2.2.0
 This update is NOT save safe.
-## All Creation Club content has been removed EXCEPT for the following:
+### All Creation Club content has been removed EXCEPT for the following:
 - Adventurer's Backpack
 - Alternative Armors - Daedric Mail
 - Alternative Armors - Daedric Plate
@@ -29,7 +29,7 @@ This update is NOT save safe.
 - Spell Knight Armor
 - Survival Mode
 - Vigil Enforcer Armor Set
-## Added
+### Added
 - Beyond Skyrim: Bruma
 ### Removed
 - Dareni's spell mods
