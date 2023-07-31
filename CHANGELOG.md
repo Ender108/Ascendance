@@ -1,5 +1,12 @@
+### Version 2.2.2
+This update is save safe.
+### Added
+- Default Face NPCs Fixed
+### Updated
+- Fixed SKSE meta file download
+
 ## Version 2.2.1
-This update is save safe
+This update is save safe.
 ### Added
 - Legion - A Bruma Encounter Zone Overhaul
 ### Removed
