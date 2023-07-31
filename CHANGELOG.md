@@ -57,6 +57,8 @@ This update is NOT save safe.
 - Curation Club
 - Dareni's spell mods
 - All mods that relied on the removed CC content
+- Brewer - An Alcohol Brewing Mod
+- Huntsman - A Hunting Expansion
 - RAID Weathers - Brighter Nights (Vanilla Nights does this better)
 - Embers HD
 ### Updated
