@@ -14,7 +14,7 @@ This update is save safe.
 - Item Property Manipulator - IPM
 - Weapon Speed - IPM
 
-### Version 2.2.2
+## Version 2.2.2
 This update is save safe.
 ### Added
 - Default Face NPCs Fixed
