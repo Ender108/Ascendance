@@ -1,3 +1,19 @@
+## Verison 2.2.3
+This update is save safe.
+### Added
+- True Directional Movement - Tail Animation Fix
+- Dynamic Interface Patcher - DIP
+- RaceMenu - Untarnished UI - DIP Patch
+- Beyond Skyrim Bruma - Timing is Everything Patch
+- DynDOLOD FX Glow Accurate Disabler
+### Removed
+- Switch Camera During Dialogue
+- Dynamic RaceMenu Interface Patcher
+- RaceMenu - Untarnished UI Patch - DRIP Patch
+### Updated
+- Item Property Manipulator - IPM
+- Weapon Speed - IPM
+
 ### Version 2.2.2
 This update is save safe.
 ### Added
