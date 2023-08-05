@@ -1,3 +1,34 @@
+## Verison 2.3.0
+This update probably isn't save safe idk.
+### Added
+- DialogueTransformer
+- DialogueTransformer - Khajiit Speak
+- Starfrost - A Survival Overhaul
+- Starfrost - Injury Integration Addon
+- Starfrost - Survival Spells Addon
+- Nordic Faces - Default Face NPCs Fixed
+- Nordic Faces - Beyond Skyrim Bruma Patch
+- Nordic Faces - Wyrmstooth Patch
+- Lawless - Default Face NPCs Fixed Patch
+- Lawless Expanded - Default Face NPCs Fixed Patch
+- Weather of the World
+- A Quality World Map
+### Removed
+- Better Third Person Selection
+- A Clear Map of Skyrim
+- Food And Rest - Crusader Addon
+- Mysticism - Survival Spells Addon
+- Blade and Blunt - Harsher Health Regen Addon
+- Shared Inn Storage Service
+### Updated
+- Toggle Dialogue Camera
+- Mysticism - A Magic Overhaul
+- Arena - Harder Easy Spawns
+- Gourmet - A Cooking Overhaul
+- Gourmet - Survival Patch
+- DynDOLOD NG (Should get rid of LOD unloading bug)
+- Synthesis
+
 ## Verison 2.2.3
 This update is save safe.
 ### Added
