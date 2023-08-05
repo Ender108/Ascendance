@@ -1,6 +1,7 @@
 ## Verison 2.2.3
 This update is save safe.
 ### Added
+- Toggle Dialogue Camera
 - True Directional Movement - Tail Animation Fix
 - Dynamic Interface Patcher - DIP
 - RaceMenu - Untarnished UI - DIP Patch
