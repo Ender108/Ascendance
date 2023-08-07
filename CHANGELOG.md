@@ -1,3 +1,9 @@
+## Verison 2.3.2
+This update is save safe.
+### Updated
+- Enemies Respect Encounter Zones
+- Blade and Blunt - A Combat Overhaul
+
 ## Verison 2.3.1
 This update is save safe.
 ### Updated
