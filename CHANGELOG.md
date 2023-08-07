@@ -3,6 +3,7 @@ This update is save safe.
 ### Updated
 - Enemies Respect Encounter Zones
 - Blade and Blunt - A Combat Overhaul
+- Survival Mode Improved - SKSE
 
 ## Verison 2.3.1
 This update is save safe.
