@@ -1,3 +1,8 @@
+## Verison 2.3.1
+This update is save safe.
+### Updated
+- Starfrost - A Survival Overhaul
+
 ## Verison 2.3.0
 This update probably isn't save safe idk.
 ### Added
