@@ -53,7 +53,7 @@ This version is save safe. Save in an interior before updating.
 - True Nordic Farmhouses
 - Skyland Happy Little Trees Bark
 - A Quality World Map
-## Updated
+### Updated
 - Toggle Dialogue Camera
 - Apothecary - An Alchemy Overhaul
 - Crusader - A Simonrim Uncapper Profile
