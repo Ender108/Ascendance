@@ -1,3 +1,73 @@
+## Version 2.3.4
+This version is save safe. Save in an interior before updating.
+### Added
+- Skyrim Landscape and Water Fixes
+- Simple Activate SKSE
+- Toggle Compass Hotkey (uses X key by default)
+- Wait Your Turn - Enemy Circling Behaviour
+- HD Remastered Landscapes
+- HD Remastered Blended Roads
+- HD Classic Farmhouses - Complex Parallax
+- Icy Mesh Remaster
+- Icy Caves Remaster
+- HD Remastered Tree Bark - Happy Little Trees
+- Shrubs Redone AIO
+- Cathedral - 3D Thistle
+- Cathedral - 3D Tundra Cotton
+- Cathedral - 3D Lavender
+- Cathedral - 3D Clover Plant
+- Cathedral - 3D Snow Berries
+- Subtypes of Snowberries - Base Object Swapper
+- Cathedral - 3D Deathbell
+- Cathedral - 3D Nightshade
+- Cathedral - 3D Sword Ferns
+- Cathedral - 3D Dragons Tongue
+- Cathedral - 3D Thicket and Dead Shrub
+- Cathedral - 3D Mountain Flowers
+- Cathedral - 3D Mountain Flowers Hearthfire Patch
+- Cathedral 3D Mountain Flowers - Base Object Swapper
+- Smaller Cathedral 3D Plants - Base Object Swapper
+- Forgotten Retex Project
+- Skyrim Objects SMIMed - Noble Furniture
+- Skyrim Objects SMIMed - Farm Mills
+- RUGNAROK
+- PELTAPALOOZA
+- JS Dragon Claws
+- JS Shrines of the Divines
+- High Quality Food and Ingredients
+- Iconic Statues
+- Bellyaches Animal and Creature Pack
+- HD Reworked Dragons Collection
+- HD Reworked Horses
+- Falmer Overhaul - New Models and Textures
+- Gemling Queen Jewelry
+- Gemling Queen Jewelry - USSEP Circlet Fix
+- Beyond Skyrim - Bruma - Gemling Queen Jewelry Patch
+- Extended Gemling Queen Jewelry
+- RUSTIC AMULETS
+- Better Stealth AI for Followers
+- Lower Sounding Thieves Guild Door
+### Removed
+- Tavern AI Fix
+- Vanilla Ice Adjusted
+- True Nordic Farmhouses
+- Skyland Happy Little Trees Bark
+- A Quality World Map
+## Updated
+- Toggle Dialogue Camera
+- Apothecary - An Alchemy Overhaul
+- Crusader - A Simonrim Uncapper Profile
+- Gourmet - A Cooking Overhaul
+- Candlehearth - An Inn Overhaul
+- Fixed Delphine's note appearing in Ustengrav when it shouldn't 
+- Fixed Weapon Speed - IPM not applying to Bows as intended
+- You will no longer get arrested for having a summon/zombie active in towns
+- Precision now has attack collisions enabled, using the same MCM settings as Ro
+- DynDOLOD 3 Alpha 132
+- DynDOLOD Resources
+- DynDOLOD NG DLL
+- Regenerated all LODs
+
 ## Verison 2.3.2
 This update is save safe.
 ### Updated
