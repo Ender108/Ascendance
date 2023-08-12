@@ -1,3 +1,16 @@
+## Version 2.3.5
+This version is save safe.
+### Added
+- Guards and Stormcloaks Armors Retexture SE
+- Simple Offence Suppression
+- Simple Offence Suppression
+- Simple Offence Suppression MCM - Block Friendly Fire
+- A Quality World Map
+### Updated
+- Assorted Mesh Fixes
+- Fixed rock textures not blending
+- Reverted to brown tundra grass and brown tundra landscape
+
 ## Version 2.3.4
 This version is save safe. Save in an interior before updating.
 ### Added
