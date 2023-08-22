@@ -11,7 +11,7 @@ Ascendance is a lightweight difficulty modlist for Skyrim. The goal of Ascendanc
 
 # Modlist Features
 - Simon Magus' suite of gameplay overhauls (Mysticism, Adamant, Apothecary, Thaumaturgy...).
-- Enemy overhauls such as Dragon War, The Dragon Cult, Lawless, Hokoron, and King-Priest.
+- Enemy overhauls such as Dragon War, The Dragon Cult, Lawless, Madmen, Hokoron, and King-Priest.
 - Integration and balancing of a select number of Creations.
 - Very low performance impact due to using the Community Shaders suite by Doodlum (Grass Lighting, TAA Deblur, Grass Sampling...).
 - Quest mods such as Beyond Skyrim: Bruma, Wyrmstooth, Sirenroot, and Skyrim Extended Cut - Saints and Seducers.
