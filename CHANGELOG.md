@@ -1,3 +1,113 @@
+## Version 2.4.0 (Unreleased)
+This version is NOT save safe.
+### Added
+- Creation Club Content
+	- Arms of Chaos
+	- Bittercup
+	- Chrysamere
+	- The Contest
+	- Goldbrand
+	- Gray Cowl
+	- Headman's Cleaver
+	- Lord's Mail
+	- Staff of Hasedoki
+	- Stendarr's Hammer
+- Artificer - An Artifact Overhaul
+- Light Limit Fix
+- YAR - Yuril's Additional Resources
+- Unofficial High Definition Audio Project
+- Recipe Auto-Learn
+- Alchemy Plus
+- Load Screen Shading Fix
+- Naked Dead NPC Fix
+- Items Stolen Bug Fix
+- Assorted Bruma Mesh Fixes
+- Kill Caps Lock NG
+- Bounties Are Worthwhile - Leveled Bounty Rewards
+- Reasonable Quest Rewards
+- Reasonable Quest Rewards - Dark Brotherhood
+- Reasonable Quest Rewards - Bounties Are Worthwhile Patch
+- Dynamic Mercenary Fees
+- Barely Used Vanilla Actors Recycle Project Special Edition Revamped
+- Adamant - Bard Perks Addon - Pilgrim Integration
+- Adamant - Saints and Seducers Smithing Patch
+- Dragon Hunting - Quest Rewards and Alchemy Ingredients
+- Simple Wearable Lanterns
+- Simple Wearable Lanterns Fixes
+- Slampire's Creation Cave - CC Reintegration
+- Catir Club - Immersive Creation Club Integration
+- Madmen - A Forsworn Overhaul
+- Faster Horse Dismount
+- Jumping Costs Stamina
+- Windhelm Entrance Offset Fix - Base Object Swapper
+- Complex Parallax Materials
+- Skyland Landscapes Parallax
+- Better Dirt Cliffs and Alphas
+- Simplicity of Snow - Parallax Meshes
+- Advanced Vanilla Ice (These are by far the best ice textures I've ever seen)
+- Advanced Vanilla Ice - LOD
+- ERM - Enhanced Rocks and Mountains Parallax
+- ERM - Enhanced Rocks and Mountains - Rock Texture
+- Markarth Fixed AF
+- Drengin's Blue Palace - Mesh Only Replacer
+- Skyland Happy Little Trees Bark
+- Skyland Happy Little Trees Bark - Aspens Ablaze Patch
+- QW's Grass Patch 1
+- Complementary Grass Fixes
+- Resurgence Armory - Artifact Weapons and Armor Overhaul
+- Thieves Guild Armors Retexture SE
+- Forsworn Armors and Weapons Retexture SE
+- FYX - Windhelm Graveyard
+- Riften Gate Restored
+- Ambient Bird Sounds Expanded (SRD)
+- Paired Animation Improvements
+- Immersive Equipment Displays
+- Open Animation Replacer - IED Conditions
+- Weapon Styles - DrawSheathe Animations for IED
+- Lux Resources
+- Lux
+- Lux Orbis
+### Removed
+- Simple Activate SKSE
+- Headhunter - Bounties Redone
+- College of Winterhold - Quest Expansion
+- Vestige - An Artifact Overhaul
+- Wait Your Turn
+- STAYDOWN
+- Subliminal Traps
+- White Phial - Tweaks and Enhancements
+- Administer Potions and Poisons to Friendly NPCs - White Phial Tweaks Patch
+- Relighting Skyrim
+- Fires and Embers Clipping Fix - Relighting Skyrim Patch
+- Ambiance - Darker Ambient Interior Fog
+- Interior Floating Fog Remover
+- Reduced Glow FX
+- HD Remastered Landscapes
+- HD Remastered Roads
+- HD Remastered Bridges
+- HD Remastered Tree Bark
+- Realistic High Altitude Treeline
+- Skoglendi
+- Forgotten Retex Project
+- Cathedral Armory (Most of the textures were overwritten)
+### Updated
+- Unofficial Skyrim Creation Club Content Patch
+- Base Object Swapper
+- Keyword Item Distributor
+- Soft Shadows
+- Photo Mode
+- Crusader - A Simonrim Uncapper Profile
+- Journeyman - A Fast Travel Overhaul (Now only takes effect when Survival Mode is enabled)
+- Dragon War - A Dragon Overhaul
+- C.O.I.N. - Coins of Interesting Natures
+- Survival Mode Improved - SKSE
+- Simplicity of Snow
+- ERM - Enhanced Rocks and Mountains - DynDOLOD Add-On
+- EmbersXD
+- Security Overhaul SKSE - Lock Add-ons
+- More Carriages
+- Open Animation Replacer
+
 ## Version 2.3.5
 This version is save safe.
 ### Added
