@@ -97,6 +97,7 @@ This version is NOT save safe.
 - Photo Mode
 - Crusader - A Simonrim Uncapper Profile
 - Journeyman - A Fast Travel Overhaul (Now only takes effect when Survival Mode is enabled)
+- The Dragon Cult - A Draugr Overhaul
 - Dragon War - A Dragon Overhaul
 - C.O.I.N. - Coins of Interesting Natures
 - Survival Mode Improved - SKSE
