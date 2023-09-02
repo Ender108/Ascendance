@@ -102,6 +102,7 @@ This version is NOT save safe.
 - C.O.I.N. - Coins of Interesting Natures
 - Survival Mode Improved - SKSE
 - Simplicity of Snow
+- Community Shaders + All Addons
 - ERM - Enhanced Rocks and Mountains - DynDOLOD Add-On
 - EmbersXD
 - Security Overhaul SKSE - Lock Add-ons
