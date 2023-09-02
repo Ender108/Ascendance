@@ -12,7 +12,6 @@ This version is NOT save safe.
 	- Lord's Mail
 	- Staff of Hasedoki
 	- Stendarr's Hammer
-- Artificer - An Artifact Overhaul
 - Light Limit Fix
 - YAR - Yuril's Additional Resources
 - Unofficial High Definition Audio Project
