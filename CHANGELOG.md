@@ -1,4 +1,4 @@
-## Version 2.4.0 (Unreleased)
+## Version 2.4.0
 This version is NOT save safe.
 ### Added
 - Creation Club Content
