@@ -1,3 +1,8 @@
+## Version 2.4.1
+This version is save safe.
+### Added
+- Lots of particle lights mods
+
 ## Version 2.4.0
 This version is NOT save safe.
 ### Added
