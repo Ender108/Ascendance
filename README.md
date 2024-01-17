@@ -16,7 +16,7 @@ Ascendance is a lightweight Simonrim modlist for Skyrim. The goal of Ascendance 
 - Very low performance impact due to using the Community Shaders suite by Doodlum (Grass Lighting, TAA Deblur, Grass Sampling...).
 
 # Requirements
-- The latest version (currently 1.6.1130.0 for Steam) of The Elder Scrolls V: Skyrim Special Edition. The GoG version of Skyrim is NOT supported.
+- The latest version (currently 1.6.1170.0 for Steam) of The Elder Scrolls V: Skyrim Special Edition. The GoG version of Skyrim is NOT supported.
 - All Creation Club content from the paid Anniversary Edition upgrade.
 
 # Recommended Specs
