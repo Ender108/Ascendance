@@ -17,7 +17,7 @@ Ascendance is a lightweight Simonrim modlist for Skyrim. The goal of Ascendance 
 
 # Requirements
 - The latest version (currently 1.6.1170.0 for Steam) of The Elder Scrolls V: Skyrim Special Edition. The GoG version of Skyrim is NOT supported.
-- All Creation Club content from the paid Anniversary Edition upgrade.
+- All Creations from the paid Anniversary Edition update.
 - Note: This list does NOT require any of the Creations (aka Paid Mods) from the December 2023 update.
 
 # Recommended Specs
