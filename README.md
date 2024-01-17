@@ -12,12 +12,13 @@ Ascendance is a lightweight Simonrim modlist for Skyrim. The goal of Ascendance 
 # Modlist Features
 - Simon Magus' suite of gameplay overhauls (Mysticism, Adamant, Apothecary, Thaumaturgy...).
 - Enemy overhauls such as Dragon War, The Dragon Cult, Lawless, Madmen, Hokoron, and King-Priest.
-- Integration and balancing of Creation Club content.
+- Integration and balancing of Creations from the paid Anniversary Edition update.
 - Very low performance impact due to using the Community Shaders suite by Doodlum (Grass Lighting, TAA Deblur, Grass Sampling...).
 
 # Requirements
 - The latest version (currently 1.6.1170.0 for Steam) of The Elder Scrolls V: Skyrim Special Edition. The GoG version of Skyrim is NOT supported.
 - All Creation Club content from the paid Anniversary Edition upgrade.
+- Note: This list does NOT require any of the Creations (aka Paid Mods) from the December 2023 update.
 
 # Recommended Specs
 - CPU: Quad-core processor with high single core performance (4.0GHz or more).
@@ -30,7 +31,7 @@ Ascendance is a lightweight Simonrim modlist for Skyrim. The goal of Ascendance 
 1. Download and install [Visual C++ 2019](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you have not already.
 2. Uninstall Skyrim Special Edition if you already have it installed through Steam. Ensure the game folder is deleted (...Steam\steamapps\common\Skyrim Special Editon). Ensure the INI files folder is deleted (...Documents\My Games\Skyrim Special Edition)
 3. Download and install Skyrim Special Edition through Steam. It must be installed outside of the "Program Files" folders in your Windows drive, and the game's language must be set to English.
-4. Run Skyrim Special Edition through Steam to generate the INI files. Launch the game and click Creations in the main menu, then click O and then select "Download all my owned Creations" to download all the Creation Club content. Exit the game once finished.
+4. Run Skyrim Special Edition through Steam to generate the INI files. Launch the game and click Creations in the main menu, then click O and then select "Download all my owned Creations" to download all the Creations from the paid Anniversary Edition update. Exit the game once finished.
 5. Download and install [Wabbajack](https://www.wabbajack.org/) in any location if you haven't already. Click the settings icon in the top right then log in with your Nexus Mods account.
 6. In the Wabbajack main menu, click "Browse Modlists", in the dropdown menu in the top right select "Skyrim Special Edition", then click "Show
 Unofficial Lists".
