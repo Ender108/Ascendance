@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/19737384/234403208-495d22f5-92e0-4b56-a60e-4ced017dfa5e.png)
+![Image](https://raw.githubusercontent.com/Ender108/Ascendance/main/Skyrim%20Special%20Edition%201_16_2024%204_58_05%20PM.webp)
 
 <div align="center">
 
