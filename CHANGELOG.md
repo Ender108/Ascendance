@@ -1,7 +1,12 @@
 ## Verison 3.0.0
-This version is NOT save safe.
+Ascendance 3.0 is here!
 
-This is a complete rebuild of Ascendance. All Creation Club content is now included again.
+I am back from a Skyrim modding hiatus (I touched grass for once) and am excited to share this update with you guys. The list has gone through a slight rebranding to emphasize the Simonrim focus I'm going for. With this update, I believe Ascendance 3.0 is the most streamlined Simonrim modlist available on Wabbajack. Little has changed in terms of core gameplay but here are a list of features from the update...
+
+- All CC content has returned has been reintegrated
+- Every Simonrim Overhaul is included per usual, including the most recent Artificer - An Artifact Overhaul
+- Updated visuals from Azurite Weathers II, Fantasia Landscapes, Xavbio's Armors and Weapons Retextures, and all Community Shaders addons
+- Removal of Beyond Skyrim: Bruma and Wyrmstooth, as I feel they did not fit within the scope of the list
 
 ## Version 2.4.1
 This version is save safe.
