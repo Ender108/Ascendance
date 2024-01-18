@@ -1,3 +1,10 @@
+## Version 3.0.1
+This update is save safe.
+### Updated
+- Complete Widescreen Fix for Vanilla and SkyUI v3.8.2 (now includes support for Survival Mode SKSE)
+### Fixed
+- Hid Survival Mode SKSE files that were overwriting Starfrost and Pilgrim
+
 ## Verison 3.0.0
 Complete rebuild of Ascendance, too many things to list. Here are a few highlights...
 
