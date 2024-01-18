@@ -1,3 +1,16 @@
+## Version 3.0.2
+This update is save safe.
+### Added
+- Comprehensive Attack Rate Patch - SKSE
+- Missile's Apothecary Patches for more CC patches
+- Natura - Posion Crash Fix Test to (hopefully) stop posion spells crashing the game
+- Priesthood - Armory of the Dragon Cult Patch which changes the "while wearing robes" perks to instead require a full set of Dragon Priest armor
+- Unarmed Weapon Speed Scaling and Unlocked Movement
+### Removed
+- Mysticism - Poison Crash Fix Test
+### Updated
+- Ascendance - Nemesis Output 
+
 ## Version 3.0.1
 This update is save safe.
 ### Updated
