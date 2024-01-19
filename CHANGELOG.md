@@ -1,3 +1,13 @@
+## Version 3.0.3
+This update is save safe.
+### Added
+- Survival Control Panel to give 25 warmth rating to cloaks
+- Survival Control Panel - Settings Loader
+### Fixed
+- Amulet of Akatosh having duplicate XP buffs
+- Cloaks are no longer enchantable for balance reasons
+- Crosshair is now properly alligned with where arrows hit
+
 ## Version 3.0.2
 This update is save safe.
 ### Added
