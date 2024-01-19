@@ -7,7 +7,7 @@
   </div>
 
 # Introduction
-Ascendance is a lightweight Simonrim modlist for Skyrim. The goal of Ascendance is to improve gameplay in a challenging yet rewarding way using Simon Magus' series of overhauls, while staying true to the core Skyrim experience. Ascendance also includes a noticeable visual upgrade while still maintaining very high performance. 
+Ascendance is a Simonrim modlist for Skyrim. The goal of Ascendance is to improve gameplay in a challenging yet rewarding way using Simon Magus' series of overhauls, while staying true to the core Skyrim experience. Ascendance also includes a noticeable visual upgrade while still maintaining very high performance. 
 
 # Modlist Features
 - Simon Magus' suite of gameplay overhauls (Mysticism, Adamant, Apothecary, Thaumaturgy...).
