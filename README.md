@@ -1,4 +1,4 @@
-![Image](https://raw.githubusercontent.com/Ender108/Ascendance/main/Skyrim%20Special%20Edition%201_16_2024%204_58_05%20PM.webp)
+![Image](https://raw.githubusercontent.com/Ender108/Ascendance/main/AscendanceTitle.webp)
 
 <div align="center">
 
