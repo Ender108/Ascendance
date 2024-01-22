@@ -1,3 +1,15 @@
+## Version 3.0.4
+This update is save safe.
+### Added
+- Ascendance - Main Menu (Thank you Foamimi!)
+- Blade and Blunt - No Killmoves
+- Desktop Splash Screen
+- Mercantile plugin (Reduces selling prices by 50% but gives 100% extra scaling with Speech level)
+- Skyrim Objects SMIMed - Warmaiden's Holes
+### Fixed
+- Duplicate guards at Tel Mithryn
+- Water seams with RW2 Synthesis Patcher
+
 ## Version 3.0.3
 This update is save safe.
 ### Added
