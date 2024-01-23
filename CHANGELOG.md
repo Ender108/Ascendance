@@ -11,6 +11,8 @@ This update is save safe. Some of these mods won't do anything if you've already
 - Cut gold rewards in half from Bounty Quests Redone - NG
 - SkyPatcher v2.3.10
 - Switched to non parallax verison of Enhanced Rocks and Mountains to get rid of warping
+### Fixed
+- A Daedra's Best Friends and Waking Nightmare not starting
 
 ## Version 3.0.4
 This update is save safe.
