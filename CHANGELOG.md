@@ -1,5 +1,12 @@
 ## Version 3.0.5 (Unreleased)
-This update is save safe.
+This update is save safe. Some of these mods won't do anything if you've already progressed far enough into the storyline. 
+### Added
+- At Your Own Pace (College, Companions, Main Quest, and Thieves Guild Modules)
+- Cult of the World Eater - Dragon Priests Buff Alduin
+- Defeat the Dragon Cult (This mod won't do anything if you've already talked to Paarthurnax about finding the Elder Scroll)
+- Dragon Hunting - At Your Own Pace CoW Patch
+### Removed
+- Improved Companions - Questline Tweaks
 ### Updated
 - Cut gold rewards in half from Bounty Quests Redone - NG
 - SkyPatcher v2.3.10
