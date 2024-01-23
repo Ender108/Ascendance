@@ -3,8 +3,10 @@ This update is save safe. Some of these mods won't do anything if you've already
 ### Added
 - At Your Own Pace (College, Companions, Main Quest, and Thieves Guild Modules)
 - Cult of the World Eater - Dragon Priests Buff Alduin
+- Dawnguard - Tweaks and Enhancements
 - Defeat the Dragon Cult (This mod won't do anything if you've already talked to Paarthurnax about finding the Elder Scroll)
 - Dragon Hunting - At Your Own Pace CoW Patch
+- Fuz Ro D-oh - Silent Voice
 ### Removed
 - Improved Companions - Questline Tweaks
 ### Updated
@@ -12,7 +14,7 @@ This update is save safe. Some of these mods won't do anything if you've already
 - SkyPatcher v2.3.10
 - Switched to non parallax verison of Enhanced Rocks and Mountains to get rid of warping
 ### Fixed
-- A Daedra's Best Friends and Waking Nightmare not starting
+- Some Daedric Gods quests not starting
 
 ## Version 3.0.4
 This update is save safe.
