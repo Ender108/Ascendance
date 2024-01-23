@@ -1,3 +1,9 @@
+## Version 3.0.5 (Unreleased)
+This update is save safe.
+### Updated
+- Cut gold rewards in half from Bounty Quests Redone - NG
+- Switched to non parallax verison of Enhanced Rocks and Mountains to get rid of warping
+
 ## Version 3.0.4
 This update is save safe.
 ### Added
