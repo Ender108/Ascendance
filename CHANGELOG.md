@@ -17,6 +17,7 @@ This update is NOT save safe.
 - SkyPatcher v2.3.10
 - Switched to non parallax verison of Enhanced Rocks and Mountains to get rid of warping
 ### Fixed
+- Snow LOD brightness
 - Some Daedric Gods quests not starting
 
 ## Version 3.0.4
@@ -29,7 +30,6 @@ This update is save safe.
 - Skyrim Objects SMIMed - Warmaiden's Holes
 ### Fixed
 - Duplicate guards at Tel Mithryn
-- Snow LOD brightness
 - Water seams with RW2 Synthesis Patcher
 
 ## Version 3.0.3
