@@ -2,6 +2,7 @@
 This update is save safe.
 ### Updated
 - Cut gold rewards in half from Bounty Quests Redone - NG
+- SkyPatcher v2.3.10
 - Switched to non parallax verison of Enhanced Rocks and Mountains to get rid of warping
 
 ## Version 3.0.4
