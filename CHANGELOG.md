@@ -1,16 +1,19 @@
-## Version 3.0.5 (Unreleased)
-This update is save safe. Some of these mods won't do anything if you've already progressed far enough into the storyline. 
+## Version 3.1.0 (Unreleased)
+This update is NOT save safe.
 ### Added
 - At Your Own Pace (College, Companions, Main Quest, and Thieves Guild Modules)
+- Artificer - At Your Own Pace - Companions Patch
 - Cult of the World Eater - Dragon Priests Buff Alduin
 - Dawnguard - Tweaks and Enhancements
-- Defeat the Dragon Cult (This mod won't do anything if you've already talked to Paarthurnax about finding the Elder Scroll)
+- Defeat the Dragon Cult
 - Dragon Hunting - At Your Own Pace CoW Patch
 - Fuz Ro D-oh - Silent Voice
+- Vittorias Alternate Wedding Patches
 ### Removed
 - Improved Companions - Questline Tweaks
 ### Updated
 - Cut gold rewards in half from Bounty Quests Redone - NG
+- Knight of the North - Divine Crusader Reworked v3.0.0
 - SkyPatcher v2.3.10
 - Switched to non parallax verison of Enhanced Rocks and Mountains to get rid of warping
 ### Fixed
