@@ -29,6 +29,7 @@ This update is save safe.
 - Skyrim Objects SMIMed - Warmaiden's Holes
 ### Fixed
 - Duplicate guards at Tel Mithryn
+- Snow LOD brightness
 - Water seams with RW2 Synthesis Patcher
 
 ## Version 3.0.3
