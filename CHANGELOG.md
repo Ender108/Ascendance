@@ -1,4 +1,4 @@
-## Version 3.1.0 (Unreleased)
+## Version 3.1.0
 This update is NOT save safe.
 ### Added
 - At Your Own Pace (College, Companions, Main Quest, and Thieves Guild Modules)
