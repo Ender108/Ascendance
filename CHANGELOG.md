@@ -20,7 +20,6 @@ This update is NOT save safe.
 - Royal Armory - Plugin Replacer
 - Royal Armory Plugin Replacer - Adjustments and Rebalancing for Thaumaturgy
 ### Updated
-- Added three Travel Packs in the Starter Chest.
 - Cut gold rewards in half from Bounty Quests Redone - NG
 - Knight of the North - Divine Crusader Reworked v3.0.0
 - SkyPatcher v2.3.10
