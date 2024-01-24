@@ -14,6 +14,9 @@ This update is NOT save safe.
 ### Removed
 - Arena - Quest Level Addon
 - Improved Companions - Questline Tweaks
+- Royal Armory - New Artifacts
+- Royal Armory - Plugin Replacer
+- Royal Armory Plugin Replacer - Adjustments and Rebalancing for Thaumaturgy
 ### Updated
 - Cut gold rewards in half from Bounty Quests Redone - NG
 - Knight of the North - Divine Crusader Reworked v3.0.0
