@@ -4,11 +4,13 @@ This update is NOT save safe.
 - At Your Own Pace (College, Companions, Main Quest, and Thieves Guild Modules)
 - Artificer - At Your Own Pace - Companions Patch
 - Cult of the World Eater - Dragon Priests Buff Alduin
+- Daedric Shrines A.I.O. - Pilgrim Patch
 - Dawnguard - Tweaks and Enhancements
 - Defeat the Dragon Cult
 - Delayed Quest Starts
 - Dragon Hunting - At Your Own Pace CoW Patch
 - Fuz Ro D-oh - Silent Voice
+- Statue of Sithis
 - Timing is Everything
 - Vittorias Alternate Wedding Patches
 ### Removed
