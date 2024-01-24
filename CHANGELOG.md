@@ -6,10 +6,13 @@ This update is NOT save safe.
 - Cult of the World Eater - Dragon Priests Buff Alduin
 - Dawnguard - Tweaks and Enhancements
 - Defeat the Dragon Cult
+- Delayed Quest Starts
 - Dragon Hunting - At Your Own Pace CoW Patch
 - Fuz Ro D-oh - Silent Voice
+- Timing is Everything
 - Vittorias Alternate Wedding Patches
 ### Removed
+- Arena - Quest Level Addon
 - Improved Companions - Questline Tweaks
 ### Updated
 - Cut gold rewards in half from Bounty Quests Redone - NG
