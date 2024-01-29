@@ -1,4 +1,4 @@
-## Version 3.1.1 (Unreleased)
+## Version 3.1.1
 This update is save safe.
 ### Added
 - Luminosity Lighting Overhaul - The Cathedral Concept
