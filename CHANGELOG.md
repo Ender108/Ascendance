@@ -1,3 +1,13 @@
+## Version 3.1.1 (Unreleased)
+This update is save safe.
+### Added
+- Myrwatch - Tweaks and Enhancements
+- Sensible Sleepwalking - Wake up at nearest All-Maker Stone
+- Skyland Landscapes Complex Parallax (For Dragonborn landscape textures)
+- Subsurface Scattering Shaders for Skins
+### Removed
+- Homes Under the Warhammer - Myrwatch Module
+
 ## Version 3.1.0
 This update is NOT save safe.
 ### Added
