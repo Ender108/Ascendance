@@ -1,3 +1,14 @@
+## Version 3.1.2
+This update is save safe.
+### Added
+- Skyrim is Luminous
+- No Spinning Death Animation
+### Removed
+- Dunmer Settlement of Tel Mithryn (Wasn't needed)
+- Luminosity Lighting Overhaul - The Cathedral Concept (Replaced by Skyrim is Luminous)
+### Fixed
+- Player Scripts from Seeking Out Sneaks showing in active powers
+
 ## Version 3.1.1
 This update is save safe.
 ### Added
