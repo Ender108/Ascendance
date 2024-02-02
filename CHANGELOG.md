@@ -1,6 +1,7 @@
 ## Version 3.1.3 (Unreleased)
 This update is save safe.
 ### Added
+- CC's Camping Expansion
 - CC Crossbows - Thaumaturgy Patch
 - Robes Retexture SE
 - Skeever Tail HD
