@@ -8,6 +8,7 @@ This update is save safe.
 - Sky Reflection Fix
 - Stagger Effect Fix
 - The College of Mages - Sorcerer Patch
+- WiZkiD Specific Signs
 ### Removed
 - Armory of the Dragon Cult
 - Cult of the World Eater
