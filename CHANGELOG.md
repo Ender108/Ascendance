@@ -5,6 +5,7 @@ This update is save safe.
 - CC Crossbows - Thaumaturgy Patch
 - Diverse Campfires - Base Object Swapper
 - FYX - Campfire Reacts to the Wind - EmbersXD Edition
+- Masque of Clavicus Vile
 - Robes Retexture SE
 - Skeever Tail HD
 - Sky Reflection Fix
