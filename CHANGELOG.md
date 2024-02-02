@@ -1,4 +1,4 @@
-## Version 3.1.3 (Unreleased)
+## Version 3.1.3
 This update is save safe.
 ### Added
 - Ahzidal's Enchanted Armor
