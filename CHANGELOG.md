@@ -11,7 +11,7 @@ This update is save safe.
 - Stagger Effect Fix
 - Tel Mithryn Overhaul - High Poly and Improved Meshes
 - The College of Mages - Sorcerer Patch
-- Windows Shadows
+- Window Shadows
 - WiZkiD Specific Signs
 ### Removed
 - Armory of the Dragon Cult
