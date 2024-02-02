@@ -18,6 +18,7 @@ This update is save safe.
 - Armory of the Dragon Cult
 - Cult of the World Eater
 - Defeat the Dragon Cult
+- Dunmer Settlement of Tel Mithryn
 ### Updated
 - Complete Widescreen Fix for Vanilla and SkyUI v3.8.3
 - I4 Weapon Icons Overhaul v2.0
