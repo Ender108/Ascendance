@@ -3,6 +3,8 @@ This update is save safe.
 ### Added
 - CC's Camping Expansion
 - CC Crossbows - Thaumaturgy Patch
+- Diverse Campfires - Base Object Swapper
+- FYX - Campfire Reacts to the Wind - EmbersXD Edition
 - Robes Retexture SE
 - Skeever Tail HD
 - Sky Reflection Fix
