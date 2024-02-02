@@ -7,6 +7,7 @@ This update is save safe.
 - Skeever Tail HD
 - Sky Reflection Fix
 - Stagger Effect Fix
+- Tel Mithryn Overhaul - High Poly and Improved Meshes
 - The College of Mages - Sorcerer Patch
 - WiZkiD Specific Signs
 ### Removed
