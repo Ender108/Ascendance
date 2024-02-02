@@ -1,6 +1,7 @@
 ## Version 3.1.3 (Unreleased)
 This update is save safe.
 ### Added
+- CC Crossbows - Thaumaturgy Patch
 - Robes Retexture SE
 - Sky Reflection Fix
 - Stagger Effect Fix
