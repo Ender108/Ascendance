@@ -1,3 +1,22 @@
+## Version 3.1.3 (Unreleased)
+This update is save safe.
+### Added
+- Robes Retexture SE
+- Sky Reflection Fix
+- Stagger Effect Fix
+- The College of Mages - Sorcerer Patch
+### Removed
+- Armory of the Dragon Cult
+- Cult of the World Eater
+- Defeat the Dragon Cult
+### Updated
+- Complete Widescreen Fix for Vanilla and SkyUI v3.8.3
+- I4 Weapon Icons Overhaul v2.0
+- Madness and Order v3.2
+- Markarth Fixed AF v1.4.1
+- Paired Animation Improvements v1.0.2
+- Skyrim is Luminous v10
+
 ## Version 3.1.2
 This update is save safe.
 ### Added
