@@ -3,6 +3,7 @@ This update is save safe.
 ### Added
 - CC Crossbows - Thaumaturgy Patch
 - Robes Retexture SE
+- Skeever Tail HD
 - Sky Reflection Fix
 - Stagger Effect Fix
 - The College of Mages - Sorcerer Patch
