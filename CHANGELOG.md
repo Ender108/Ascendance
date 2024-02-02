@@ -1,8 +1,11 @@
 ## Version 3.1.3 (Unreleased)
 This update is save safe.
 ### Added
+- Ahzidal's Enchanted Armor
+- Ancient Shrouded Armor Replacer
 - CC's Camping Expansion
 - CC Crossbows - Thaumaturgy Patch
+- Deathbrand Armor and Weapons Replacer
 - Diverse Campfires - Base Object Swapper
 - FYX - Campfire Reacts to the Wind - EmbersXD Edition
 - Masque of Clavicus Vile
