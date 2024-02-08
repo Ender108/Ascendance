@@ -1,3 +1,9 @@
+## Version 3.1.4
+This update is save safe.
+### Added
+- Iconic's Jurgen Windcaller Tomb And Horn Retexture
+- Skyrim is Luminous - Enhanced
+
 ## Version 3.1.3
 This update is save safe.
 ### Added
