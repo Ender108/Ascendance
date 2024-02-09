@@ -1,4 +1,4 @@
-## Version 3.1.5 (WIP)
+## Version 3.1.5
 This update is save safe.
 ### Added
 - Better Horses - Stamina and Speed (SPID)
