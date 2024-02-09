@@ -2,6 +2,8 @@
 This update is save safe.
 ### Added
 - CC Staves - Mysticism Consistency Patch - Vendor Inventory Adjusted
+- Plague of the Dead - Mysticism Rebalance
+- The Cause - Mysticism Rebalance
 
 ## Version 3.1.4
 This update is save safe.
