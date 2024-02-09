@@ -1,3 +1,8 @@
+## Version 3.1.5 (Unreleased)
+This update is save safe.
+### Added
+- CC Staves - Mysticism Consistency Patch - Vendor Inventory Adjusted
+
 ## Version 3.1.4
 This update is save safe.
 ### Added
