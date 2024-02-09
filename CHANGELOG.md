@@ -5,7 +5,6 @@ This update is save safe.
 - Cathedral - 3D Stonecrop
 - CC Staves - Mysticism Consistency Patch - Vendor Inventory Adjusted
 - Face Sculptor Expanded
-- Plague of the Dead - Mysticism Rebalance
 - The Cause - Mysticism Rebalance
 
 ## Version 3.1.4
