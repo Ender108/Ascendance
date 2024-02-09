@@ -1,6 +1,8 @@
 ## Version 3.1.5 (WIP)
 This update is save safe.
 ### Added
+- Better Horses - Stamina and Speed (SPID)
+- Cathedral - 3D Stonecrop
 - CC Staves - Mysticism Consistency Patch - Vendor Inventory Adjusted
 - Plague of the Dead - Mysticism Rebalance
 - The Cause - Mysticism Rebalance
