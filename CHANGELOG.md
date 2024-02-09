@@ -4,6 +4,7 @@ This update is save safe.
 - Better Horses - Stamina and Speed (SPID)
 - Cathedral - 3D Stonecrop
 - CC Staves - Mysticism Consistency Patch - Vendor Inventory Adjusted
+- Face Sculptor Expanded
 - Plague of the Dead - Mysticism Rebalance
 - The Cause - Mysticism Rebalance
 
