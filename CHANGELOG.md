@@ -1,3 +1,10 @@
+## Version 3.1.6
+This update is save safe.
+### Added
+- Adamant - No Killmoves Descriptions
+- Bethesda Plugin Manager for Mod Organizer
+- Window Shadows RT - Updated
+
 ## Version 3.1.5
 This update is save safe.
 ### Added
