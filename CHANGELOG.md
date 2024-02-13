@@ -1,3 +1,14 @@
+## Version 3.1.7
+This update is save safe.
+### Added 
+- Skyrim is Luminous - Window Shadows Combo Patch
+### Removed
+- SiL Enhanced - Window Shadows Patch
+### Updated 
+- Window Shadows RT - Updated v1.1
+### Fixed 
+- Mercantile plugin actually works now
+
 ## Version 3.1.6
 This update is save safe.
 ### Added
