@@ -1,3 +1,18 @@
+## Version 3.1.8
+This update is save safe.
+### Added
+- Pirate-King - A Velehk Sain Overhaul and Expansion
+### Removed
+- Aetherius - Lower Starting Skills Addon
+- Aetherius - Starting Spells Addon
+- Blade and Blunt - No Killmoves
+- Mundus - USSEP Tower Stone Patch
+- WiZkiD Specific Signs (Looked weird)
+### Updated
+- Aetherius - A Race Overhaul v2.12.0
+- Blade and Blunt - A Combat Overhaul v3.4.2
+- Mundus - A Standing Stone Overhaul v1.12.0
+
 ## Version 3.1.7
 This update is save safe.
 ### Added 
