@@ -1,3 +1,10 @@
+## Version 3.1.9 (WIP)
+This update is save safe.
+### Added
+- DialogueTransformer
+- DialogueTransformer - Khajiit Speak
+- Custom Khajiit Speak Plugin
+
 ## Version 3.1.8
 This update is save safe.
 ### Added
