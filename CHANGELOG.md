@@ -6,6 +6,7 @@ This update is save safe.
 - Spell Knight Armors Retexture
 ### Updated
 - Azurite Weathers II v2.52
+- Bethesda Plugin Manager for Mod Organizer v0.1.5
 - I4 Weapon Icons Overhaul v2.2
 
 ## Version 3.1.8
