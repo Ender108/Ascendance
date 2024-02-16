@@ -16,6 +16,7 @@ This update is save safe.
 - Dragon Hunting - Apothecary Patch
 - Missile's Apothecary Patches
 ### Updated
+- Aetherius - A Race Overhaul v2.12.1
 - Azurite Weathers II v2.52
 - Bethesda Plugin Manager for Mod Organizer v0.1.5
 - I4 Weapon Icons Overhaul v2.2
