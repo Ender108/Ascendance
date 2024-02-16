@@ -3,7 +3,7 @@ This update is save safe.
 ### Added
 - Apothecary Universal Ingredient SkyPatcher
 - Azurite Weathers II - Expansion
-- Spell Knight Armors Retexture SE
+- Spell Knight Armors Retexture
 ### Updated
 - Azurite Weathers II v2.52
 - I4 Weapon Icons Overhaul v2.2
