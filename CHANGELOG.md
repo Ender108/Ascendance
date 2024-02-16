@@ -1,6 +1,8 @@
 ## Version 3.1.9 (WIP)
 This update is save safe.
 ### Added
+- Adamant Armor Rating Adjustment
+- Adamant Armor Rating Adjustment - CC Addon
 - Apothecary Universal Ingredient SkyPatcher
 - Aspens Ablaze
 - Aspens Ablaze Add-On - DynDOLOD 3
