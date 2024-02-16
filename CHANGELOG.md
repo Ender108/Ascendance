@@ -5,6 +5,7 @@ This update is save safe.
 - Azurite Weathers II - Expansion
 ### Updated
 - Azurite Weathers II v2.52
+- I4 Weapon Icons Overhaul v2.2
 
 ## Version 3.1.8
 This update is save safe.
