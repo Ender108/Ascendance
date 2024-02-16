@@ -3,7 +3,13 @@ This update is save safe.
 ### Added
 - Apothecary Universal Ingredient SkyPatcher
 - Azurite Weathers II - Expansion
+- Forgotten Curios - A Creation Club Artifact Overhaul
 - Spell Knight Armors Retexture
+### Removed
+- Apothecary - Fishing Patch
+- Creation Cave - Bittercup Apothecary Patch
+- Dragon Hunting - Apothecary Patch
+- Missile's Apothecary Patches
 ### Updated
 - Azurite Weathers II v2.52
 - Bethesda Plugin Manager for Mod Organizer v0.1.5
