@@ -1,6 +1,7 @@
 ## Version 3.1.9 (WIP)
 This update is save safe.
 ### Added
+- Apothecary Universal Ingredient SkyPatcher
 - Terrain Parallax Blending Fix
 
 ## Version 3.1.8
