@@ -10,11 +10,13 @@ This update is save safe.
 - Forgotten Curios - A Creation Club Artifact Overhaul
 - Skyland Happy Little Trees Bark - Aspens Ablaze Patch
 - Spell Knight Armors Retexture
+- Windhelm Bridge Reforged - The Citadel of Snow
 ### Removed
 - Apothecary - Fishing Patch
 - Creation Cave - Bittercup Apothecary Patch
 - Dragon Hunting - Apothecary Patch
 - Missile's Apothecary Patches
+- Stairs of Skyrim - Windhelm Bridge Stairs
 ### Updated
 - Aetherius - A Race Overhaul v2.12.1
 - Azurite Weathers II v2.52
