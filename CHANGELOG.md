@@ -2,8 +2,11 @@
 This update is save safe.
 ### Added
 - Apothecary Universal Ingredient SkyPatcher
+- Aspens Ablaze
+- Aspens Ablaze Add-On - DynDOLOD 3
 - Azurite Weathers II - Expansion
 - Forgotten Curios - A Creation Club Artifact Overhaul
+- Skyland Happy Little Trees Bark - Aspens Ablaze Patch
 - Spell Knight Armors Retexture
 ### Removed
 - Apothecary - Fishing Patch
