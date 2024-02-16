@@ -2,7 +2,10 @@
 This update is save safe.
 ### Added
 - Apothecary Universal Ingredient SkyPatcher
+- Azurite Weathers II - Expansion
 - Terrain Parallax Blending Fix
+### Updated
+- Azurite Weathers II v2.52
 
 ## Version 3.1.8
 This update is save safe.
