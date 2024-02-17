@@ -16,6 +16,7 @@ This update is save safe.
 - Creation Cave - Bittercup Apothecary Patch
 - Dragon Hunting - Apothecary Patch
 - Missile's Apothecary Patches
+- Reduced Glow FX
 - Stairs of Skyrim - Windhelm Bridge Stairs
 ### Updated
 - Aetherius - A Race Overhaul v2.12.1
