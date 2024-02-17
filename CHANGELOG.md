@@ -9,6 +9,7 @@ This update is save safe.
 - Aspens Ablaze Add-On - DynDOLOD 3
 - Azurite Weathers II - Expansion
 - Forgotten Curios - A Creation Club Artifact Overhaul
+- Happy Little Trees - Lighter Pine Trees
 - Skyland Happy Little Trees Bark - Aspens Ablaze Patch
 - Spell Knight Armors Retexture
 - Windhelm Bridge Reforged - The Citadel of Snow
