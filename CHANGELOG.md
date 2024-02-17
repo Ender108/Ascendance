@@ -3,7 +3,6 @@ This update is NOT save safe.
 ### Added
 - Adamant Armor Rating Adjustment
 - Adamant Armor Rating Adjustment - CC Addon
-- Advanced Vanilla Ice
 - Alternate Marsh for Happy Little Trees
 - Apothecary Universal Ingredient SkyPatcher
 - Aspens Ablaze
@@ -13,6 +12,7 @@ This update is NOT save safe.
 - Happy Little Trees - Lighter Pine Trees
 - Icy Mesh Remaster
 - Skyland Happy Little Trees Bark - Aspens Ablaze Patch
+- Skyrim Remastered - Unreal Ice and Glaciers
 - Spell Knight Armors Retexture
 - Windhelm Bridge Reforged - The Citadel of Snow
 ### Removed
