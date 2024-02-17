@@ -22,9 +22,11 @@ This update is NOT save safe.
 - Dragon Hunting - Apothecary Patch
 - Dunmer Settlements of Solstheim
 - Missile's Apothecary Patches
+- Morthal Where's Wares - Capital and Towns of Skyrim Patch
 - Reduced Glow FX
 - Stairs of Skyrim - Windhelm Bridge Stairs
 - The College of Mages
+- The College of Mages - Sorcerer Patch
 - Vanilla Ice Adjusted
 - Village of the Skaal
 ### Updated
