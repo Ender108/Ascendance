@@ -3,6 +3,7 @@ This update is save safe.
 ### Added
 - Adamant Armor Rating Adjustment
 - Adamant Armor Rating Adjustment - CC Addon
+- Alternate Marsh for Happy Little Trees
 - Apothecary Universal Ingredient SkyPatcher
 - Aspens Ablaze
 - Aspens Ablaze Add-On - DynDOLOD 3
