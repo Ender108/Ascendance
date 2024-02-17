@@ -3,6 +3,7 @@ This update is save safe.
 ### Added
 - Adamant Armor Rating Adjustment
 - Adamant Armor Rating Adjustment - CC Addon
+- Advanced Vanilla Ice
 - Alternate Marsh for Happy Little Trees
 - Apothecary Universal Ingredient SkyPatcher
 - Aspens Ablaze
@@ -10,6 +11,7 @@ This update is save safe.
 - Azurite Weathers II - Expansion
 - Forgotten Curios - A Creation Club Artifact Overhaul
 - Happy Little Trees - Lighter Pine Trees
+- Icy Mesh Remaster
 - Skyland Happy Little Trees Bark - Aspens Ablaze Patch
 - Spell Knight Armors Retexture
 - Windhelm Bridge Reforged - The Citadel of Snow
@@ -20,6 +22,7 @@ This update is save safe.
 - Missile's Apothecary Patches
 - Reduced Glow FX
 - Stairs of Skyrim - Windhelm Bridge Stairs
+- Vanilla Ice Adjusted
 ### Updated
 - Aetherius - A Race Overhaul v2.12.1
 - Azurite Weathers II v2.52
