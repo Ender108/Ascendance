@@ -27,6 +27,7 @@ This update is NOT save safe.
 - Stairs of Skyrim - Windhelm Bridge Stairs
 - The College of Mages
 - The College of Mages - Sorcerer Patch
+- Unique Towns - Base Object Swapper
 - Vanilla Ice Adjusted
 - Village of the Skaal
 ### Updated
