@@ -11,6 +11,7 @@ This update is NOT save safe.
 - Azurite Weathers II - Expansion
 - Centered Blue Throne Palace
 - Centered Blue Palace Throne - Window Shadows Patch
+- Detailed Carriages 2.0
 - eFPS
 - eFPS - Anniversary Edition
 - Forgotten Curios - A Creation Club Artifact Overhaul
