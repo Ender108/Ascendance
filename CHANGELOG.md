@@ -27,6 +27,7 @@ This update is NOT save safe.
 - Obscure's College of Winterhold
 - Obscure's College of Winterhold Loot Rebalancing
 - Obscure's College of Winterhold NPC Stuck in Staircase Fix
+- Reasonable Quest Rewards
 - Sepolcri - A Complete Burial Sites Overhaul
 - Ships on the Horizon
 - Skyland Happy Little Trees Bark - Aspens Ablaze Patch
