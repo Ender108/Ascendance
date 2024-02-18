@@ -49,6 +49,7 @@ This update is NOT save safe.
 - Untarnished UI + Dear Diary Dark Mode
 - Windhelm Bridge Reforged - The Citadel of Snow
 ### Removed
+- All redundant mods replaced by Untarnished UI
 - Apothecary - Fishing Patch
 - Creation Cave - Bittercup Apothecary Patch
 - Dragon Hunting - Apothecary Patch
