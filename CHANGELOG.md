@@ -39,6 +39,7 @@ This update is NOT save safe.
 - Bethesda Plugin Manager for Mod Organizer v0.1.5
 - I4 Weapon Icons Overhaul v2.2
 - Survival Mode Improved - SKSE v1.5.1
+- Window Shadows RT - Updated v1.2
 
 ## Version 3.1.8
 This update is save safe.
