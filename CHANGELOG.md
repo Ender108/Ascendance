@@ -23,7 +23,16 @@ This update is NOT save safe.
 - Obscure's College of Winterhold Loot Rebalancing
 - Skyland Happy Little Trees Bark - Aspens Ablaze Patch
 - Skyrim Remastered - Unreal Ice and Glaciers
+- Spaghetti's Cities - AIO
+- Spaghetti's Faction Halls - AIO
+- Spaghetti's Faction Halls - AIO - No College of Winterhold
+- Spaghetti's Orc Strongholds - AIO
+- Spaghetti's Palaces - AIO
+- Spaghetti's Solstheim - AIO
+- Spaghetti's Towns - AIO
+- NotSoFestive Spaghetti's Towns and Cities
 - Spell Knight Armors Retexture
+- The Citadel of Snow - The Windhelm Bridge Reforged
 - Unique Northern Vanilla Farmhouses - Non Snowy Regions
 - Unique Northern Vanilla Farmhouses - Snowy Regions
 - Unique Towns - Nordic Jarl Longhouse Patch
