@@ -13,7 +13,7 @@ This update is NOT save safe.
 - eFPS
 - eFPS - Anniversary Edition
 - Forgotten Curios - A Creation Club Artifact Overhaul
-- FYX - Windhelm Graveyard - Spaghetti Patch
+- FYX Series of Mods and Patches
 - Happy Little Trees - Lighter Pine Trees
 - Icy Mesh Remaster
 - Icy Windhelm
@@ -34,6 +34,7 @@ This update is NOT save safe.
 - Spaghetti's Towns - AIO
 - Spell Knight Armors Retexture
 - The Citadel of Snow - The Windhelm Bridge Reforged
+- The Dragon Bridge
 - Unique Northern Vanilla Farmhouses - Non Snowy Regions
 - Unique Northern Vanilla Farmhouses - Snowy Regions
 - Unique Towns - Nordic Jarl Longhouse Patch
