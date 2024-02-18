@@ -5,7 +5,6 @@ This update is NOT save safe.
 - Adamant Armor Rating Adjustment - CC Addon
 - aljos Apothecary Patches
 - Alternate Marsh for Happy Little Trees
-- Animated Ships
 - Apothecary Universal Ingredient SkyPatcher
 - Aspens Ablaze
 - Aspens Ablaze Add-On - DynDOLOD 3
