@@ -9,17 +9,22 @@ This update is NOT save safe.
 - Aspens Ablaze Add-On - DynDOLOD 3
 - Azurite Weathers II - Expansion
 - Centered Blue Throne Palace
+- Centered Blue Palace Throne - Window Shadows Patch
 - eFPS
 - eFPS - Anniversary Edition
 - Forgotten Curios - A Creation Club Artifact Overhaul
 - Happy Little Trees - Lighter Pine Trees
 - Icy Mesh Remaster
 - Immersive College NPCs
+- Nordic Jarl Longhouses
 - Obscure's College of Winterhold
 - Obscure's College of Winterhold Loot Rebalancing
 - Skyland Happy Little Trees Bark - Aspens Ablaze Patch
 - Skyrim Remastered - Unreal Ice and Glaciers
 - Spell Knight Armors Retexture
+- Unique Northern Vanilla Farmhouses - Non Snowy Regions
+- Unique Northern Vanilla Farmhouses - Snowy Regions
+- Unique Towns - Nordic Jarl Longhouse Patch
 - Windhelm Bridge Reforged - The Citadel of Snow
 ### Removed
 - Apothecary - Fishing Patch
