@@ -15,6 +15,7 @@ This update is NOT save safe.
 - Forgotten Curios - A Creation Club Artifact Overhaul
 - Happy Little Trees - Lighter Pine Trees
 - Icy Mesh Remaster
+- Icy Windhelm
 - Immersive College NPCs
 - Nordic Jarl Longhouses
 - Obscure's College of Winterhold
