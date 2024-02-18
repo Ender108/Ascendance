@@ -8,6 +8,8 @@ This update is NOT save safe.
 - Aspens Ablaze
 - Aspens Ablaze Add-On - DynDOLOD 3
 - Azurite Weathers II - Expansion
+- eFPS
+- eFPS - Anniversary Edition
 - Forgotten Curios - A Creation Club Artifact Overhaul
 - Happy Little Trees - Lighter Pine Trees
 - Icy Mesh Remaster
