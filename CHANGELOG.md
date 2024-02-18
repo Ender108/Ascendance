@@ -28,6 +28,7 @@ This update is NOT save safe.
 - Sepolcri - A Complete Burial Sites Overhaul
 - Skyland Happy Little Trees Bark - Aspens Ablaze Patch
 - Skyrim Remastered - Unreal Ice and Glaciers
+- Snowy Ships for Snowy Regions
 - Spaghetti's Cities - AIO
 - Spaghetti's Faction Halls - AIO
 - Spaghetti's Faction Halls - AIO - No College of Winterhold
