@@ -67,6 +67,7 @@ This update is NOT save safe.
 - Azurite Weathers II v2.52
 - Bethesda Plugin Manager for Mod Organizer v0.1.5
 - I4 Weapon Icons Overhaul v2.2
+- Switched to RAID Medium, Lite was too easy
 - Window Shadows RT - Updated v1.2
 
 ## Version 3.1.8
