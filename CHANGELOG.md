@@ -23,19 +23,14 @@ This update is NOT save safe.
 - Windhelm Bridge Reforged - The Citadel of Snow
 ### Removed
 - Apothecary - Fishing Patch
-- Capitals and Towns of Skyrim
 - Creation Cave - Bittercup Apothecary Patch
 - Dragon Hunting - Apothecary Patch
-- Dunmer Settlements of Solstheim
 - Missile's Apothecary Patches
-- Morthal Where's Wares - Capital and Towns of Skyrim Patch
 - Reduced Glow FX
 - Stairs of Skyrim - Windhelm Bridge Stairs
 - The College of Mages
 - The College of Mages - Sorcerer Patch
-- Unique Towns - Base Object Swapper
 - Vanilla Ice Adjusted
-- Village of the Skaal
 ### Updated
 - Aetherius - A Race Overhaul v2.12.1
 - Azurite Weathers II v2.52
