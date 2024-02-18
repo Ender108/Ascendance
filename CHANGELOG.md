@@ -25,6 +25,7 @@ This update is NOT save safe.
 - NotSoFestive Spaghetti's Towns and Cities
 - Obscure's College of Winterhold
 - Obscure's College of Winterhold Loot Rebalancing
+- Obscure's College of Winterhold NPC Stuck in Staircase Fix
 - Sepolcri - A Complete Burial Sites Overhaul
 - Skyland Happy Little Trees Bark - Aspens Ablaze Patch
 - Skyrim Remastered - Unreal Ice and Glaciers
