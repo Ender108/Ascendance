@@ -5,6 +5,7 @@ This update is NOT save safe.
 - Adamant Armor Rating Adjustment - CC Addon
 - aljos Apothecary Patches
 - Alternate Marsh for Happy Little Trees
+- Animated Ships
 - Apothecary Universal Ingredient SkyPatcher
 - Aspens Ablaze
 - Aspens Ablaze Add-On - DynDOLOD 3
@@ -28,6 +29,7 @@ This update is NOT save safe.
 - Obscure's College of Winterhold Loot Rebalancing
 - Obscure's College of Winterhold NPC Stuck in Staircase Fix
 - Sepolcri - A Complete Burial Sites Overhaul
+- Ships on the Horizon
 - Skyland Happy Little Trees Bark - Aspens Ablaze Patch
 - Skyrim Remastered - Unreal Ice and Glaciers
 - Snowy Ships for Snowy Regions
