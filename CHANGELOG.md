@@ -11,6 +11,9 @@ This update is NOT save safe.
 - Forgotten Curios - A Creation Club Artifact Overhaul
 - Happy Little Trees - Lighter Pine Trees
 - Icy Mesh Remaster
+- Immersive College NPCs
+- Obscure's College of Winterhold
+- Obscure's College of Winterhold Loot Rebalancing
 - Skyland Happy Little Trees Bark - Aspens Ablaze Patch
 - Skyrim Remastered - Unreal Ice and Glaciers
 - Spell Knight Armors Retexture
