@@ -13,6 +13,7 @@ This update is NOT save safe.
 - eFPS
 - eFPS - Anniversary Edition
 - Forgotten Curios - A Creation Club Artifact Overhaul
+- FYX - Windhelm Graveyard - Spaghetti Patch
 - Happy Little Trees - Lighter Pine Trees
 - Icy Mesh Remaster
 - Icy Windhelm
