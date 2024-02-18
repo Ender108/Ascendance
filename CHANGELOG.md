@@ -19,6 +19,7 @@ This update is NOT save safe.
 - Icy Windhelm
 - Immersive College NPCs
 - Nordic Jarl Longhouses
+- NotSoFestive Spaghetti's Towns and Cities
 - Obscure's College of Winterhold
 - Obscure's College of Winterhold Loot Rebalancing
 - Skyland Happy Little Trees Bark - Aspens Ablaze Patch
@@ -30,7 +31,6 @@ This update is NOT save safe.
 - Spaghetti's Palaces - AIO
 - Spaghetti's Solstheim - AIO
 - Spaghetti's Towns - AIO
-- NotSoFestive Spaghetti's Towns and Cities
 - Spell Knight Armors Retexture
 - The Citadel of Snow - The Windhelm Bridge Reforged
 - Unique Northern Vanilla Farmhouses - Non Snowy Regions
