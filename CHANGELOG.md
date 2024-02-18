@@ -46,6 +46,7 @@ This update is NOT save safe.
 - Unique Northern Vanilla Farmhouses - Non Snowy Regions
 - Unique Northern Vanilla Farmhouses - Snowy Regions
 - Unique Towns - Nordic Jarl Longhouse Patch
+- Untarnished UI + Dear Diary Dark Mode
 - Windhelm Bridge Reforged - The Citadel of Snow
 ### Removed
 - Apothecary - Fishing Patch
