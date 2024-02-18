@@ -1,4 +1,4 @@
-## Version 3.2.0 - The Cities Update (WIP)
+## Version 3.2.0 - The Cities Update
 This update is NOT save safe.
 ### Added
 - Adamant Armor Rating Adjustment
