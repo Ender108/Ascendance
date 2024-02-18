@@ -60,6 +60,7 @@ This update is NOT save safe.
 - Stairs of Skyrim - Windhelm Bridge Stairs
 - The College of Mages
 - The College of Mages - Sorcerer Patch
+- Troll Idle Animation Removed (sometimes breaks Troll AI)
 - Vanilla Ice Adjusted
 ### Updated
 - Aetherius - A Race Overhaul v2.12.1
