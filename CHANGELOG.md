@@ -19,6 +19,7 @@ This update is NOT save safe.
 - Icy Mesh Remaster
 - Icy Windhelm
 - Immersive College NPCs
+- Improved Solitude Walls
 - Nordic Jarl Longhouses
 - NotSoFestive Spaghetti's Towns and Cities
 - Obscure's College of Winterhold
