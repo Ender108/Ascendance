@@ -3,6 +3,7 @@ This update is NOT save safe.
 ### Added
 - Adamant Armor Rating Adjustment
 - Adamant Armor Rating Adjustment - CC Addon
+- aljos Apothecary Patches
 - Alternate Marsh for Happy Little Trees
 - Apothecary Universal Ingredient SkyPatcher
 - Aspens Ablaze
