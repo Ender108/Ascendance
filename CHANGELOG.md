@@ -48,6 +48,7 @@ This update is NOT save safe.
 - Creation Cave - Bittercup Apothecary Patch
 - Dragon Hunting - Apothecary Patch
 - Missile's Apothecary Patches
+- No Spinning Death Animation (redundant with UNDERDOG)
 - Reduced Glow FX
 - Stairs of Skyrim - Windhelm Bridge Stairs
 - The College of Mages
