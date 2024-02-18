@@ -16,6 +16,7 @@ This update is NOT save safe.
 - eFPS - Anniversary Edition
 - Forgotten Curios - A Creation Club Artifact Overhaul
 - FYX Series of Mods and Patches
+- Hendraheim - Tweaks and Enhancements
 - Happy Little Trees - Lighter Pine Trees
 - Icy Mesh Remaster
 - Icy Windhelm
