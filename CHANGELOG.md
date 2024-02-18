@@ -38,6 +38,7 @@ This update is NOT save safe.
 - Spell Knight Armors Retexture
 - The Citadel of Snow - The Windhelm Bridge Reforged
 - The Dragon Bridge
+- UNDERDOG Death Animations
 - Unique Northern Vanilla Farmhouses - Non Snowy Regions
 - Unique Northern Vanilla Farmhouses - Snowy Regions
 - Unique Towns - Nordic Jarl Longhouse Patch
