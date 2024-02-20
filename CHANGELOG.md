@@ -1,3 +1,13 @@
+## Version 3.2.1
+This update is save safe.
+### Added
+- Quests Are In Skyrim
+- Radiant Requirements - Quests Are In Skyrim USSEP Patch
+- Unique Northern Vanilla Farmhouses - Destroyed Morthal House
+- Unique Northern Vanilla Farmhouses - Goldenhills Plantation
+### Removed
+- Azurite Weathers II - Expansion (didn't like the look)
+
 ## Version 3.2.0 - The Cities Update
 This update is NOT save safe.
 ### Added
