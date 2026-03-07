@@ -5,7 +5,7 @@ Ascendance is a modlist designed to improve Skyrim's gameplay, integrate new con
 
 # Features
 - Simon Magus' series of gameplay overhauls
-- Visual overhaul using Communitu Shaders and PBR textures
+- Visual overhaul using Community Shaders and PBR textures
 - Rebalanced and integrated Creation Club content
 - Various tweaks to many vanilla quests and encounters
 
