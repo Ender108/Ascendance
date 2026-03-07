@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/Ender108/Ascendance/refs/heads/main/AscendanceSplash.webp)
 
 # Description
-Ascedance is a modlist designed to improve Skyrim's gameplay, integrate new content into the world, and provide a complete visual overhaul.
+Ascendance is a modlist designed to improve Skyrim's gameplay, integrate new content into the world, and provide a complete visual overhaul.
 
 # Features
 - Simon Magus' series of gameplay overhauls
@@ -17,7 +17,7 @@ Ascedance is a modlist designed to improve Skyrim's gameplay, integrate new cont
 2. Ensure you have a clean, unmodified copy of Skyrim Special Edition and the Skyrim Special Edition Creation Kit installed. It must installed outside of your Program Files folders (e.g. "C:\Steam\steamapps\common\Skyrim Special Edition")
 3. Download and install [Wabbajack](https://www.wabbajack.org/) anywhere outside of your Programs Files folders (e.g. "C:\Wabbajack"). Run Wabbajack.exe.
 4. Click Settings in the bottom left, then click Log in next to Nexus Mods. Proceed to log in and authorize.
-5. Click Browse lists, make sure Non-featured is checked, and then search Ascedance. Click on the box and then click Download & Install.
-6. Set the Installation Location and Download Location anywhere outside of your Programs Files folders and outside your Wabbajack installation folder (e.g. "C:\Modlists\Ascedance" and "C:\Modlists\Ascedance\downloads").
-7. Click Install in the bottom and wait until it says Finished installing Ascedance at the top. If any of the files fail to download, you will need to download them manually from their page and place it in the specified download folder.
-8. Go to your Ascedance install folder and launch ModOrganizer.exe, Make sure SKSE is selected in the top left drop-down and click Run if you wish to play.
+5. Click Browse lists, make sure Non-featured is checked, and then search Ascendance. Click on the box and then click Download & Install.
+6. Set the Installation Location and Download Location anywhere outside of your Programs Files folders and outside your Wabbajack installation folder (e.g. "C:\Modlists\Ascendance" and "C:\Modlists\Ascendance\downloads").
+7. Click Install in the bottom and wait until it says Finished installing Ascendance at the top. If any of the files fail to download, you will need to download them manually from their page and place it in the specified download folder.
+8. Go to your Ascendance install folder and launch ModOrganizer.exe, Make sure SKSE is selected in the top left drop-down and click Run to play.
