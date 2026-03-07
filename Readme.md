@@ -17,5 +17,5 @@ Ascedance is a modlist designed to improve Skyrim's gameplay, integrate new cont
 4. Click Settings in the bottom left, then click Log in next to Nexus Mods. Proceed to log in and authorize.
 5. Click Browse lists, make sure Non-featured is checked, and then search Ascedance. Click on the box and then click Download & Install.
 6. Set the Installation Location and Download Location anywhere outside of your Programs Files folders and outside your Wabbajack installation folder (e.g. "C:\Modlists\Ascedance" and "C:\Modlists\Ascedance\downloads").
-7. Click Install in the bottom and wait until it says Finished installing Simonrim Essentials at the top. If any of the files fail to download, you will need to download them manually from their page and place it in the specified download folder.
+7. Click Install in the bottom and wait until it says Finished installing Ascedance at the top. If any of the files fail to download, you will need to download them manually from their page and place it in the specified download folder.
 8. Go to your Ascedance install folder and launch ModOrganizer.exe, Make sure SKSE is selected in the top left drop-down and click Run if you wish to play.
