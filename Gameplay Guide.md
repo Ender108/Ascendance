@@ -64,3 +64,66 @@
 | Sweet Tooth  | You have a small chance to find Skooma on fallen enemies. |
 | Trollkin     | Your Health Regeneration is increased by 100%, but your Fire Resistance is reduced by 50%. |
 | Wanted       | You are a wanted criminal, and have bounties in each of Skyrim’s holds. |
+
+# Leveling
+# Overview
+
+    Crusader is designed to slow the pace of the game significantly, especially at earlier levels, so that players don’t breeze past specific areas of the game.
+    Leveling speed tweaks have been designed with Rested/Well Rested AND Fed/Well-Fed in mind; the player is intended to prioritize these buffs at all times.
+    Leveling speed tweaks have been designed with Reading is Good in mind; the player is intended to acquire skill books to speed mid- to late-game leveling.
+    Crusader is designed to avoid forcing the player to level up “alternate” skills to reach their desired level; the soft cap (level 50) can be reached by leveling only 6 skills.
+    This mitigates some of the other-wise drastic leveling speed changes that the mod makes.
+
+Leveling Speed
+
+    Leveling will be much slower throughout the game, but especially in the early game
+    You will no longer rocket past your first ten levels faster than you can blink
+    The reduction to leveling speed will be lessened as the player levels up (to prevent getting stuck at level 81 for 6 days)
+    The general range is from 80% reduction (at skill level 5) to 50% reduction (at skill level 85)
+    Spells will now receive an XP bonus when dual casting
+
+Character Level
+
+    The contribution of skill level to player level is increased for skills above 50
+    Leveling four skills to 100 will result in the character reaching level 40
+    Leveling six skills to 100 will result in the character reaching level 50
+    Leveling twelve skills to 100 will result in the character reaching level 75
+    Leveling eighteen skills to 100 will result in the character reaching level 100
+
+Crafting Skills
+
+    Leveling crafting skills will give much less progress towards your character level, for crafting skills below 40
+    Leveling crafting skills will give much more progress towards your character level, for crafting skills above 60
+    This prevents the player from power leveling early with crafting, and discourages players from interacting with crafting purely for the early levels
+    This also protects the character from having their character level inflated by leveling a skill that contributes little to nothing to their power at low levels
+    The total contribution to your character level for reaching 100 with a crafting skill is identical to all other skills
+
+Stats, Perks, and Level Caps
+
+    You will receive 20 Health, Magicka, or Stamina at level 2, based on your choice on level up
+    You will receive 2 perks for reaching level 5, 10, 15, 20, 25, 30, 35, 40, and 45
+    You will receive 3 perks for reaching level 50
+    Level 50 is the “soft cap” for character level.
+    After level 50 you will gain no additional perk points
+    The total number of perks you can receive from leveling is 60 (+2 from Ogma Infinium)
+    You will continue to receive 10 Health, Magicka, or Stamina from levels 51 to 100, based on your choice on level up
+    Level 100 is the “hard cap” for character level. You will no longer receive stat bonuses for leveling up, nor will you recieve perks after level 100
+    The total number of stats you can receive from leveling is 500 (at level 50), and 1000 (at level 100)
+
+Carry Weight
+
+    You will start with 200 Carry Weight
+    You will no longer receive Carry Weight for leveling Stamina
+    There are many sources of Carry Weight in Simonrim; use them
+    With Candlehearth, every inn has safe storage when renting a room.
+
+Tldr/Tips
+
+There are a couple of things I think are worth keeping in mind when playing this list with Crusader.
+
+    The slower leveling speeds make the early game feel more impactful. You will no longer level up quickly passed level 10 in a short play session.
+    Maintaining your needs to keep experience gain up can be a huge boon to leveling up more quickly.
+        Keep your Rested/Well Rested/Lover’s Comfort (5%/10%/15%) bonuses up to increase your experience gain.
+        Fed/Well Fed/Lover’s Cooking will grant you 5%/10%/15% extra experience gain.
+    Level 50 is effectively a new “soft cap”.
+    The soft cap (level 50) can be reached by leveling only 6 skills
