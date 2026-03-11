@@ -66,13 +66,13 @@
 | Wanted       | You are a wanted criminal, and have bounties in each of Skyrim’s holds. |
 
 # Leveling
-# Overview
+## Overview
 
-    Crusader is designed to slow the pace of the game significantly, especially at earlier levels, so that players don’t breeze past specific areas of the game.
-    Leveling speed tweaks have been designed with Rested/Well Rested AND Fed/Well-Fed in mind; the player is intended to prioritize these buffs at all times.
-    Leveling speed tweaks have been designed with Reading is Good in mind; the player is intended to acquire skill books to speed mid- to late-game leveling.
-    Crusader is designed to avoid forcing the player to level up “alternate” skills to reach their desired level; the soft cap (level 50) can be reached by leveling only 6 skills.
-    This mitigates some of the other-wise drastic leveling speed changes that the mod makes.
+- Crusader is designed to slow the pace of the game significantly, especially at earlier levels, so that players don’t breeze past specific areas of the game.
+- Leveling speed tweaks have been designed with Rested/Well Rested AND Fed/Well-Fed in mind; the player is intended to prioritize these buffs at all times.
+- Leveling speed tweaks have been designed with Reading is Good in mind; the player is intended to acquire skill books to speed mid- to late-game leveling.
+- Crusader is designed to avoid forcing the player to level up “alternate” skills to reach their desired level; the soft cap (level 50) can be reached by leveling only 6 skills.
+- This mitigates some of the other-wise drastic leveling speed changes that the mod makes.
 
 Leveling Speed
 
