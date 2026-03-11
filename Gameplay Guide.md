@@ -1,4 +1,4 @@
-# Races, Classes, and Traits
+## Races
 
 | Race  | Passive |
 | ------------- | ------------- |
@@ -12,6 +12,8 @@
 | Orc |	Your Health is increased by 50. |
 |Redguard |	Your Stamina is increased by 50. |
 | Wood Elf |	Your Movement Speed is increased by 10%. |
+
+## Classes
 
 | Class        | Passive                                                                 | Starting Skills                                           |
 |--------------|-------------------------------------------------------------------------|-----------------------------------------------------------|
