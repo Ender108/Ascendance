@@ -35,3 +35,32 @@
 | Rogue        | You deal 25% extra power attack damage while you have an empty offhand.| Speech, Alchemy, One-handed, Light Armor, Security        |
 | Scout        | Your Stamina Regeneration is increased by 50%.                         | Light Armor, Archery, Block, One-handed, Smithing         |
 | Thief        | You move 20% faster while sneaking.                                    | Security, Hand to Hand, Light Armor, Sneak, Speech        |
+
+## Traits
+
+| Trait        | Effect |
+|--------------|--------|
+| Acrobatic    | You jump twice as high and take 50% less damage from falling. |
+| Arcane       | Your spells and enchantments cost 20% less, but you cannot regenerate Magicka in combat. |
+| Athletic     | Sprinting costs 50% less Stamina out of combat. |
+| Beloved      | You have the Blessing of Dibella, and carry her amulet. |
+| Bitten       | You are afflicted by Sanguinare Vampiris. |
+| Blessed      | You have a small chance to find healing scrolls on fallen enemies. |
+| Brute        | You deal 10% extra damage with weapons, but you move 10% slower. |
+| Cannibal     | You have a chance to find human flesh and human hearts on slain enemies. |
+| Careful      | You take less damage while power attacking, drawing a bow, or casting a spell, but deal less damage to enemies who are power attacking, drawing a bow, or casting a spell. |
+| Charming     | Your buying and selling prices are improved by 10%. |
+| Coward       | You move 10% faster, but take 10% extra weapon and spell damage. |
+| Drunkard     | Alcohol is twice as strong, but when you are not under the effect of alcohol, your Magicka and Stamina are reduced by 50. |
+| Faithless    | You cannot benefit from shrines, but you receive one additional perk point. |
+| Foolhardy    | Your armor is 25% more effective when you are not wearing a helmet. |
+| Gifted       | You receive 10% extra experience. |
+| Hoarder      | Your Carry Weight is increased by 100, but your selling prices are reduced by 20%. |
+| Milkdrinker  | Bonuses from milk are five times stronger, and you find extra milk in your travels. |
+| Mundane      | You resist 20% of all incoming spell damage, but your spells and enchantments cost five times as much. |
+| Novice       | You no longer benefit from your class’s starting skills. |
+| Reckless     | You deal extra damage to staggered targets, but take extra damage while staggered. |
+| Salty        | You find extra salt in your travels. |
+| Sweet Tooth  | You have a small chance to find Skooma on fallen enemies. |
+| Trollkin     | Your Health Regeneration is increased by 100%, but your Fire Resistance is reduced by 50%. |
+| Wanted       | You are a wanted criminal, and have bounties in each of Skyrim’s holds. |
