@@ -8,6 +8,7 @@ Ascendance is a modlist designed to improve Skyrim's gameplay, integrate new con
 - Visual overhaul using Community Shaders and PBR textures
 - Rebalanced and integrated Creation Club content
 - Various tweaks to many vanilla quests and encounters
+- New lands to explore
 
 # Requirements
 - Skyrim Anniversary Edition on Steam (Currently 1.6.1170)
