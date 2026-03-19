@@ -1,4 +1,4 @@
-## Version 1.0.1
+## 1.0.1
 
 This update is save safe.
 
@@ -14,5 +14,5 @@ This update is save safe.
 ### Removed
 - CS Lights (too many lights)
 
-## Version 1.0.0
-Upload.
+## 1.0.0
+Release.
