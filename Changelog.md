@@ -1,3 +1,20 @@
+## 1.1.1
+
+This update is save safe.
+
+### Fixes & Tweaks
+- Removed Obsidian Weathers spell
+- Fixed some Vel'Dun UI elements getting overwritten
+
+### Added
+- Vel'dun Overhauls
+- Necromantic Grimoire - Skeleton Replacer HD
+- Skeleton Replacer HD - Haugbui
+
+### Removed
+- Barlow Condensed - Font Replacer
+- Quest Journal Fixes
+
 ## 1.1.0 - 4/1/2026
 
 This update is NOT save safe.
