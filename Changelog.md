@@ -1,3 +1,25 @@
+## 1.1.2
+
+This update is save safe.
+
+### Fixes & Tweaks
+- Reduced particle wind from 5 to 2.5
+
+### Added
+- Unequip Quiver NG
+- CS Overrides
+- Vel'dun UI Patches
+- MCM Helper - SkyUI 6 Compatibility Patch
+- Bow Animation Fix - no more string on the wrong side
+- Detection Meter
+- Detection Meter - AE Support
+- Modern Wait Menu
+- PBR - Unique Animated Festival Flags (aka Bunting)
+- Iron Armor Redone PBR
+
+### Removed
+- SkyUI 3D Item Offset Fix - MCM Helper
+
 ## 1.1.1
 
 This update is save safe.
