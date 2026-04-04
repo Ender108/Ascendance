@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/Ender108/Ascendance/refs/heads/main/AscendanceTitleSplash.webp)
+![](https://raw.githubusercontent.com/Ender108/Ascendance/refs/heads/main/AscendanceTitle.webp)
 
 # Description
 Ascendance is a modlist designed to improve Skyrim's gameplay, integrate new content into the world, and provide a complete visual overhaul.
