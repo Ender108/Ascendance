@@ -1,3 +1,177 @@
+## 1.2.0
+
+This update is NOT save safe.
+
+### Added
+- Hair Specular
+- HDR
+- Better Dynamic Ash SE
+- Happy Little Trees - Lighter Pines
+- Skyland Happy Little Trees Bark
+- Tomato's PBR Vanilla Ivy
+- Touchable Grass - Yet Another Cathedral 3D Grass Overhaul
+- TomatoRim PBR - Landscapes
+- TomatoRim PBR - ECSS Landscapes
+- Functional Female Armor Overhaul - FFAO
+- Alternative Armors Redone PBR
+- Goldbrand PBR
+- Godsblood - An Ebony PBR Overhaul
+- Functional Female Armor Overhaul - FFAO
+- XEMI Utility
+- Emittance Removal Project (Dust Fog Smoke Mist FX Effect)
+- True Light
+- Window Shadows Ultimate
+- Window Shadows Ultimate - Patch Hub
+- Helios
+- ISL Helper SKSE
+- aTweaks
+- Start Game Settings
+- Intuitive Optional Quick Start
+- Aetherius - A Race Overhaul
+- Manual Crossbow Reloading - SKSE
+- Legionary
+- Styles of Skyrim - Barkeeper Clothing Variations
+- Styles of Skyrim - Dunmer Outfit Variations
+- Styles of Skyrim - Miner Clothes Variations
+- Styles of Skyrim - Fine Clothes Variations
+- Styles of Skyrim - Monk and Priest Robes Variations
+- Styles of Skyrim - Merchant Clothes Variations
+- Styles of Skyrim Mashups - Civil War Battlemage Armors
+- Styles of Skyrim Mashups - Children Clothes Variations
+- Moon Monk's Robes
+- Moon Monk's Robes - PBR
+- Akaviri Hats Pack
+- Tamrielic Distribution
+- Khajiit Has Tents
+- Water for ENB
+- Less Tedious Thieves Guild
+- All Thieves Guild Jobs Concurrently
+
+### Updated
+- PGPatcher
+- Synthesis
+- Community Shaders
+- Cloud Shadows
+- Screen Space Global Illumination (SSGI)
+- Skylighting
+- Terrain Blending
+- Upscaling
+- Wetness Effects
+- SkyUI
+- DynDOLOD Resources SE
+- DynDOLOD DLL NG
+- LOD Model Library for DynDOLOD
+- No Grass In Objects
+- No Grass In Objects INI
+- Mountain LOD Helper
+- Icy Mesh Remaster - Meshes
+- Icy Mesh Remaster - IcyFixes
+- ERM - Fix and Addon
+- Imperial Forts Remake PBR
+- Tomato's Whiterun Remake - PBR
+- Tomato's Riften PBR - 2k
+- Optional Quick Start - SE
+- Pilgrim - A Religion Overhaul
+- Gourmet - A Cooking Overhaul
+- Apprentice - A Class Overhaul
+- Crusader - An Uncapper Preset
+- Mercantile Plugin
+- The Update Vortex
+- CS Lights
+- Pandora Behaviour Engine Plus
+- Horsepower - Modernized Horse Riding
+- Roastlawyer's Restored Whiterun Defences
+- Farmhouse Chimneys SE
+- Ambient Templates for Lighting Mods
+
+### Removed
+- Dead Man's Dread
+- Hendraheim
+- Netch Leather
+- Grass Collision
+- Grass Lighting
+- Screen-Space Shadows
+- Sky Sync
+- Subsurface Scattering
+- UIExtensions
+- Loading Menu Overhaul
+- Detection Meter
+- Detection Meter - AE Support
+- Modern Wait Menu
+- STB Widgets
+- STB Active Effects
+- Vel'dun UI
+- Vel'dun Overhauls
+- Vel'dun UI Patches
+- Item Stacking Tweaks SKSE
+- Core Impact Framework (CIF)
+- Obsidian Weathers - Darker Nights Redone
+- Faultier's PBR Landscapes 2k
+- Natural Waterfalls
+- Water Mod
+- Simplicity of Sea - Water Color and Transparency Tweaks
+- Stretched Snow Begone - Definitive Edition
+- Stretched Snow Begone Base Object Swapper Update
+- SSBG - Imperial Castles Of Skyrim Patch
+- Happy Little Trees - PBR - Lighter Trees
+- Happy Little Trees - PBR - Alt Snow 1 - Lighter
+- ELOS Oaks Autumnal Colours SSE
+- Diverse Downed Logs for Happy Little Trees
+- HQ Ivy For Stumps and Logs - Happy Little Logs
+- High Quality Ivy
+- High Quality PBR Ivy
+- Particle Wind - SKSE Plugin
+- Alternative Armors PBR
+- Silver Armor Redone PBR
+- Iron Armor Redone PBR (2K)
+- Wolves of Skyrim
+- Sabrecats of Skyrim
+- Bristleback Boars of Skyrim
+- Foxes of Skyrim
+- Humanoid Dragon Priests - Xavbio Unique DP
+- Haugbui - A Draugr Overhaul
+- Haugbui - Cannibal Draugr Patch
+- Haugbui - CC Fishing Patch
+- Haugbui - Better Shaped Weapons Patch
+- Skeleton Replacer HD - Haugbui
+- Hokoron - Enemy Overhaul
+- Hokoron - SimonRim Patch
+- FuzzBeed's Fabulous Resource Repository
+- Children of the North Wind - Lite
+- Why I Came to Skyrim
+- Why I came to Skyrim - for Optional Quick Start - SE
+- Customizable Companions Questline Progression Requirements
+- Thieves Guild Requirements SE
+- Thieves Guild Requirements SE - Settings Loader
+- Thieves Guild Reformation - Taking Care of Business
+- Pirate's Life for Me
+- Morrowind Threads
+- The Vigilants' New Clothes
+- Curated Curios
+- CC Hendraheim - Tweaks and Enhancements
+- Extended Cut - Saints and Seducers PBR
+- Skyrim is Luminous
+- KreatE
+- DALC Fix Preset
+- Gesture Animation Remix (OAR)
+- Gesture Animation Remix (OAR) - shield patch
+- NPC Animation Remix (OAR)
+- NPC Animation Remix (OAR) - shield patch
+- Conditional tavern cheering (OAR)
+- Arm Movement Animations (OAR)
+- Spaghetti's Series
+- Roastlawyer's Restored Whiterun Defences
+- Imperial Castles of Skyrim
+- Freak's Floral Meadows
+- Freak's Floral Veil
+- Freak's Floral Solstheim
+- PBR - Unique Animated Festival Flags (aka Bunting)
+- Skeleton Replacer HD
+- Praedy's Skeleton Replacer HD PBR
+- Diplomatic Dragons
+- Dynamic Random Dragons
+- Simply Skin
+
 ## 1.1.2
 
 This update is save safe.
